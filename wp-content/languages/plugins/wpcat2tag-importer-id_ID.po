@@ -1,0 +1,96 @@
+# Translation of Plugins - Categories to Tags Converter - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - Categories to Tags Converter - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-08-01 21:02:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - Categories to Tags Converter - Stable (latest release)\n"
+
+#: wpcat2tag-importer.php:42
+msgid "Cheatin&#8217; uh?"
+msgstr "Eh mau curang ya?"
+
+#: wpcat2tag-importer.php:84
+msgid "Hey there. Here you can selectively convert existing categories to tags. To get started, check the categories you wish to be converted, then click the Convert button."
+msgstr "Hei kamu di sana. Di sini Anda dapat mengkonversi kategori yang ada secara selektif menjadi tag. Untuk memulai, periksa kategori yang ingin dikonversi, kemudian klik tombol Konversi."
+
+#: wpcat2tag-importer.php:85
+msgid "Keep in mind that if you convert a category with child categories, the children become top-level orphans."
+msgstr "Perlu diketahui bahwa jika Anda mengubah kategori dengan kategori anak, anak-anak tadi menjadi yatim piatu di tingkat atas."
+
+#: wpcat2tag-importer.php:89
+msgid "You have no categories to convert!"
+msgstr "Anda tidak memiliki kategori untuk dikonversikan!"
+
+#: wpcat2tag-importer.php:143
+msgid "* This category is also a tag. Converting it will add that tag to all posts that are currently in the category."
+msgstr "* Kategori ini juga adalah tag. Mengkonversikannya akan menambah tag tadi ke semua tulisan yang saat ini ada di dalam kategori tersebut."
+
+#: wpcat2tag-importer.php:160
+msgid "Here you can selectively convert existing tags to categories. To get started, check the tags you wish to be converted, then click the Convert button."
+msgstr "Di sini Anda dapat mengkonversi tag yang ada secara selektif menjadi kategori. Untuk memulai, pilih tag yang ingin dikonversi, kemudian klik tombol Konversi."
+
+#: wpcat2tag-importer.php:161
+msgid "The newly created categories will still be associated with the same posts."
+msgstr "Kategori baru yang baru saja diciptakan masih tetap akan dihubungkan dengan tulisan yang sama."
+
+#: wpcat2tag-importer.php:207
+msgid "* This tag is also a category. When converted, all posts associated with the tag will also be in the category."
+msgstr "* Tag ini juga adalah kategori. Ketika dikonversikan, semua tulisan yang terkait dengan tag tadi juga akan berada dalam kategori tersebut."
+
+#: wpcat2tag-importer.php:165
+msgid "You have no tags to convert!"
+msgstr "Anda tidak memiliki tag untuk dikonversikan!"
+
+#: wpcat2tag-importer.php:247 wpcat2tag-importer.php:367
+msgid "Uh, oh. Something didn&#8217;t work. Please <a href=\"%s\">try again</a>."
+msgstr "Aduh gawat. Ada yang tidak beres. Silahkan <a href=\"%s\">coba kembali</a>."
+
+#: wpcat2tag-importer.php:269
+msgid "Converting category <strong>%s</strong> ... "
+msgstr "Mengkonversi kategori <strong>%s</strong>..."
+
+#: wpcat2tag-importer.php:297 wpcat2tag-importer.php:340
+#: wpcat2tag-importer.php:426
+msgid "Converted successfully."
+msgstr "Berhasil dikonversikan."
+
+#: wpcat2tag-importer.php:359 wpcat2tag-importer.php:448
+msgid "We&#8217;re all done here, but you can always <a href=\"%s\">convert more</a>."
+msgstr "Sudah beres semua di sini, tapi Anda selalu dapat <a href=\"%s\">konversi yang lain</a>."
+
+#: wpcat2tag-importer.php:384
+msgid "Converting tag <strong>%s</strong> ... "
+msgstr "Mengkonversi tag <strong>%s</strong> ... "
+
+#: wpcat2tag-importer.php:490
+msgid "Categories and Tags Converter"
+msgstr "Kategori dan Konverter Tag"
+
+#. #-#-#-#-#  tmp-wpcat2tag-importer.pot (Categories to Tags Converter Importer
+#. 0.5)  #-#-#-#-#
+#. Description of the plugin/theme
+#: wpcat2tag-importer.php:490
+msgid "Convert existing categories to tags or tags to categories, selectively."
+msgstr "Mengkonversi kategori yang ada menjadi tag atau tag menjadi kategori, secara selektif."
+
+#. Plugin Name of the plugin/theme
+msgid "Categories to Tags Converter Importer"
+msgstr "Kategori untuk Importir Konverter Tag"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/wpcat2tag-importer/"
+msgstr "http://wordpress.org/extend/plugins/wpcat2tag-importer/"
+
+#. Author of the plugin/theme
+msgid "wordpressdotorg"
+msgstr "wordpressdotorg"
+
+#. Author URI of the plugin/theme
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"

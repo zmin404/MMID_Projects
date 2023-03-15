@@ -1,0 +1,96 @@
+# Translation of Plugins - Categories to Tags Converter - Stable (latest release) in Korean
+# This file is distributed under the same license as the Plugins - Categories to Tags Converter - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-08-01 21:03:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Plugins - Categories to Tags Converter - Stable (latest release)\n"
+
+#: wpcat2tag-importer.php:42
+msgid "Cheatin&#8217; uh?"
+msgstr "누굴 속이시려고?"
+
+#: wpcat2tag-importer.php:84
+msgid "Hey there. Here you can selectively convert existing categories to tags. To get started, check the categories you wish to be converted, then click the Convert button."
+msgstr "안녕하세요! 이 ​​컨버터는 기존의 카테고리를 선택하여 태그로 변환합니다. 이 프로세스를 시작하려면 변환하려는 카테고리를 확인하여 변환 버튼을 클릭하십시오."
+
+#: wpcat2tag-importer.php:85
+msgid "Keep in mind that if you convert a category with child categories, the children become top-level orphans."
+msgstr "주의 : 자식 카테고리가 있는 카테고리를 변환하면 자식 카테고리는 독립된 태그로 변환됩니다."
+
+#: wpcat2tag-importer.php:89
+msgid "You have no categories to convert!"
+msgstr "변환할 카테고리가 없습니다!"
+
+#: wpcat2tag-importer.php:143
+msgid "* This category is also a tag. Converting it will add that tag to all posts that are currently in the category."
+msgstr "별표 ( * )로 표시된 카테고리는 동시에 태그이기도합니다. 변환하면 이 카테고리의 모든 게시물에 태그를 추가합니다."
+
+#: wpcat2tag-importer.php:160
+msgid "Here you can selectively convert existing tags to categories. To get started, check the tags you wish to be converted, then click the Convert button."
+msgstr "이 컨버터는 기존의 태그를 선택하여 카테고리로 변환합니다. 이 프로세스를 시작하려면 변환하고 싶은 태그를 확인하고 변환 버튼을 클릭하십시오."
+
+#: wpcat2tag-importer.php:161
+msgid "The newly created categories will still be associated with the same posts."
+msgstr "새롭게 만들어진 카테고리는 아직 이전의 게시물과 관련되어 있습니다."
+
+#: wpcat2tag-importer.php:207
+msgid "* This tag is also a category. When converted, all posts associated with the tag will also be in the category."
+msgstr "별표 ( * )로 표시된 태그는 카테고리가 있습니다. 변환하면 태그와 관련된 모든 게시물이 카테고리에 포함되게 됩니다."
+
+#: wpcat2tag-importer.php:165
+msgid "You have no tags to convert!"
+msgstr "변환할 태그가 없습니다."
+
+#: wpcat2tag-importer.php:247 wpcat2tag-importer.php:367
+msgid "Uh, oh. Something didn&#8217;t work. Please <a href=\"%s\">try again</a>."
+msgstr "음~ 뭔가 잘못된듯. <a href=\"%s\"> 다시 시도해보세요 </a>."
+
+#: wpcat2tag-importer.php:269
+msgid "Converting category <strong>%s</strong> ... "
+msgstr "카테고리 <strong>%s</strong> 를 변환중..."
+
+#: wpcat2tag-importer.php:297 wpcat2tag-importer.php:340
+#: wpcat2tag-importer.php:426
+msgid "Converted successfully."
+msgstr "변환에 성공하였습니다."
+
+#: wpcat2tag-importer.php:359 wpcat2tag-importer.php:448
+msgid "We&#8217;re all done here, but you can always <a href=\"%s\">convert more</a>."
+msgstr "이제 모두 완료되었습니다. 하지만 언제든지 <a href=\"%s\"> 더 변환 </a> 할 수 있습니다."
+
+#: wpcat2tag-importer.php:384
+msgid "Converting tag <strong>%s</strong> ... "
+msgstr "태그 <strong>%s</strong> 를 변환중..."
+
+#: wpcat2tag-importer.php:490
+msgid "Categories and Tags Converter"
+msgstr "카테고리 태그 변환 도구"
+
+#. #-#-#-#-#  tmp-wpcat2tag-importer.pot (Categories to Tags Converter Importer
+#. 0.5)  #-#-#-#-#
+#. Description of the plugin/theme
+#: wpcat2tag-importer.php:490
+msgid "Convert existing categories to tags or tags to categories, selectively."
+msgstr "기존의 카테고리를 태그로, 또는 태그를 카테고리로 변환합니다."
+
+#. Plugin Name of the plugin/theme
+msgid "Categories to Tags Converter Importer"
+msgstr "카테고리 태그 변환 도구"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/wpcat2tag-importer/"
+msgstr "http://wordpress.org/extend/plugins/wpcat2tag-importer/"
+
+#. Author of the plugin/theme
+msgid "wordpressdotorg"
+msgstr "wordpressdotorg"
+
+#. Author URI of the plugin/theme
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"

@@ -1,0 +1,2503 @@
+# Translation of Plugins - WP User Frontend &#8211; Membership, Profile, Registration &amp; Post Submission Plugin for WordPress - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - WP User Frontend &#8211; Membership, Profile, Registration &amp; Post Submission Plugin for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-28 15:17:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - WP User Frontend &#8211; Membership, Profile, Registration &amp; Post Submission Plugin for WordPress - Stable (latest release)\n"
+
+#: includes/free/class-login.php:374
+msgid "Your password has been reset successfully"
+msgstr "Je wachtwoord is succesvol gereset"
+
+#: includes/fields/class-abstract-fields.php:43
+msgid "Maximum"
+msgstr "Maximaal"
+
+#: includes/fields/class-abstract-fields.php:42
+msgid "Minimun"
+msgstr "Minimaal"
+
+#: wpuf-functions.php:2330
+msgid "Namibian dollar"
+msgstr "Namibische dollar"
+
+#: class/upload.php:315
+msgid "Something went wrong."
+msgstr "Er is iets fout gegaan."
+
+#: admin/class-admin-settings.php:617
+msgid "Provided file is not a JSON file."
+msgstr "Het opgegeven bestand is geen JSON bestand."
+
+#: admin/html/whats-new.php:749
+msgid "Illegal string offset warning while updating settings"
+msgstr "Ongeldige waarschuwing voor string-offset tijdens het updaten van instellingen"
+
+#: admin/html/whats-new.php:745
+msgid "ACF integration for checkbox fields"
+msgstr "ACF-integratie voor selectievak velden"
+
+#: admin/html/whats-new.php:761
+msgid "A regression regarding saving checkbox data"
+msgstr "Een regressie over het opslaan van selectievak gegevens"
+
+#: admin/html/whats-new.php:737
+msgid "Export WPUF forms individually from admin tools page"
+msgstr "Exporteer WPUF formulieren afzonderlijk vanaf de pagina met beheerder gereedschappen"
+
+#: admin/html/whats-new.php:733
+msgid "Updated url validation regex to support modern tlds"
+msgstr "URL validatie regex geüpdatet om moderne tlds te ondersteunen"
+
+#: admin/html/whats-new.php:729
+msgid "Password reset system"
+msgstr "Wachtwoord reset systeem"
+
+#: includes/free/class-registration.php:385
+msgid "Subscription Page settings not set in admin settings"
+msgstr "Abonnementspagina instellingen zijn niet ingesteld in de beheerinstellingen"
+
+#: admin/html/whats-new.php:765
+msgid "Default value of multi-select fields is not showing"
+msgstr "De standaardwaarde van velden met meerdere selecties wordt niet weergegeven"
+
+#: admin/html/whats-new.php:757
+msgid "Subscriptions cannot be deleted from backend"
+msgstr "Abonnementen kunnen niet uit de backend worden verwijderd"
+
+#: admin/html/whats-new.php:753
+msgid "Conditional logic for Section Break field"
+msgstr "Voorwaardelijke logica voor sectie-einde veld"
+
+#: admin/html/whats-new.php:741
+msgid "Subscription cycle label translation issue"
+msgstr "Abonnement cyclus label vertaling probleem"
+
+#: admin/html/whats-new.php:725
+msgid "Import forms system"
+msgstr "Formulierensysteem importeren"
+
+#: class/upload.php:312
+msgid "Could not deleted the attachment"
+msgstr "Kan de bijlage niet verwijderen"
+
+#: class/upload.php:309
+msgid "Attachment deleted successfully."
+msgstr "Bijlage succesvol verwijderd."
+
+#: class/upload.php:299
+msgid "attach_id is required."
+msgstr "attach_id is vereist."
+
+#: includes/free/class-login.php:417
+msgid "Nonce is invalid"
+msgstr "Nonce is ongeldig"
+
+#: includes/setup-wizard.php:316
+msgid "Share Essentials "
+msgstr "Deel essentials "
+
+#: includes/class-form.php:220
+msgid "Post Limit Exceeded for your purchased subscription pack."
+msgstr "Bericht beperking overschreden voor je gekochte abonnementspakket."
+
+#: admin/html/whats-new.php:877
+msgid "Add optin on the setup wizard"
+msgstr "Voeg opt-in aan installatie wizard toe"
+
+#: admin/settings-options.php:311
+msgid "Active Tab"
+msgstr "Actief tabblad"
+
+#. translators: %s: billing cycle number, %s: billing cycle period
+#: class/frontend-account.php:267
+msgid "For each"
+msgstr "Voor elke"
+
+#: admin/class-admin-subscription.php:504 includes/free/form-element.php:137
+msgid "You may use: {post_author} {post_url} {blogname} {post_title} {post_status}"
+msgstr "Je kan het volgende gebruiken: {post_author} {post_url} {blogname} {post_title} {post_status}"
+
+#: admin/template-post.php:187
+msgid "Search the terms name."
+msgstr "Zoek op de naam van de term."
+
+#: includes/free/class-login.php:815
+msgid "User already verified"
+msgstr "Gebruiker al geverifieerd"
+
+#: admin/promotion.php:117
+msgid "Never show again"
+msgstr "Nooit meer tonen"
+
+#: admin/form.php:76 admin/form.php:114
+msgid "Search Form"
+msgstr "Formulier zoeken"
+
+#: admin/form.php:77 admin/form.php:115
+msgid "No Form Found"
+msgstr "Geen formulier gevonden"
+
+#: admin/form.php:78 admin/form.php:116
+msgid "No Form Found in Trash"
+msgstr "Geen formulier gevonden in prullenbak"
+
+#: admin/form.php:79 admin/form.php:117
+msgid "Parent Form"
+msgstr "Hoofdformulier"
+
+#: admin/form.php:84
+msgid "Registraton Forms"
+msgstr "Registratieformulier"
+
+#: admin/form.php:222
+msgid "Post Settings"
+msgstr "Berichtinstellingen"
+
+#: admin/form.php:223
+msgid "Edit Settings"
+msgstr "Instellingen wijzigen"
+
+#: admin/form.php:327
+msgid "Post Fields"
+msgstr "Berichtvelden"
+
+#: admin/form.php:288 admin/form.php:293
+msgid "- Select -"
+msgstr "- Selecteren -"
+
+#: templates/reset-pass-form.php:14
+msgid "New password"
+msgstr "Nieuw wachtwoord"
+
+#: admin/post-forms-list-table.php:429 wpuf-functions.php:61
+msgid "Draft"
+msgstr "Concept"
+
+#: admin/post-forms-list-table.php:44 wpuf-functions.php:58
+msgid "Published"
+msgstr "Gepubliceerd"
+
+#: templates/dashboard.php:102 templates/dashboard/posts.php:238
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: templates/dashboard.php:103 templates/dashboard/posts.php:239
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: wpuf-functions.php:1520
+msgctxt "tag delimiter"
+msgid ","
+msgstr ","
+
+#: wpuf-functions.php:538
+msgid "CSV"
+msgstr "CSV"
+
+#: wpuf-functions.php:534
+msgid "Executable Files"
+msgstr "Uitvoerbare bestanden"
+
+#: wpuf-functions.php:522
+msgid "PDF"
+msgstr "PDF"
+
+#: wpuf-functions.php:510
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: class/transactions-list-table.php:91 wpuf-functions.php:64
+msgid "Pending"
+msgstr "In behandeling"
+
+#: wpuf-functions.php:30
+msgid "Offline"
+msgstr "Offline"
+
+#: wpuf-functions.php:27
+msgid "Live"
+msgstr "Live"
+
+#: templates/dashboard.php:126 templates/dashboard/posts.php:262
+msgid "No %s found"
+msgstr "Geen %s gevonden"
+
+#: templates/dashboard/list.php:79 templates/dashboard/posts.php:179
+msgid "Pay Now"
+msgstr "Betaal nu"
+
+#: templates/dashboard/list.php:57 templates/dashboard/posts.php:159
+msgid "Permalink to %s"
+msgstr "Permalink naar %s"
+
+#: templates/dashboard/list.php:40 templates/dashboard/posts.php:142
+msgid "No Image"
+msgstr "Geen afbeelding"
+
+#: lib/gateway/paypal.php:143
+msgid "PayPal API password"
+msgstr "PayPal API wachtwoord"
+
+#: lib/gateway/paypal.php:132
+msgid "PayPal Instruction"
+msgstr "PayPal instructie"
+
+#: includes/free/loader.php:199
+msgid "Upgrade to Pro"
+msgstr "Upgrade naar Pro"
+
+#: wpuf.php:195
+msgid "Your Post Has Been Expired"
+msgstr "Je bericht is verlopen"
+
+#: lib/gateway/paypal.php:127
+msgid "PayPal Email"
+msgstr "PayPal e-mail"
+
+#: lib/gateway/bank.php:28
+msgid "Bank Instruction"
+msgstr "Bankinstructie"
+
+#: includes/free/loader.php:153
+msgid "This feature is only available in the Pro Version."
+msgstr "Deze functies zijn alleen beschikbaar in de Pro versie."
+
+#: includes/free/loader.php:126 includes/free/loader.php:157
+msgid "Upgrade to Pro Version"
+msgstr "Upgrade naar Pro versie"
+
+#: includes/free/loader.php:149
+msgid "Use Coupon codes for subscription for discounts."
+msgstr "Gebruik kortingscodes voor abonnementen voor kortingen."
+
+#: lib/gateway/paypal.php:147
+msgid "PayPal API signature"
+msgstr "PayPal API signature"
+
+#: lib/gateway/paypal.php:139
+msgid "PayPal API username"
+msgstr "PayPal API gebruiker"
+
+#: wpuf-functions.php:33
+msgid "Awaiting Approval"
+msgstr "In afwachting van goedkeuring"
+
+#: wpuf-functions.php:36 wpuf-functions.php:67
+msgid "Scheduled"
+msgstr "Ingepland"
+
+#: wpuf-functions.php:39
+msgid "Private"
+msgstr "Privé"
+
+#: wpuf-functions.php:518
+msgid "Videos"
+msgstr "Video's"
+
+#: wpuf-functions.php:526
+msgid "Office Documents"
+msgstr "Kantoordocumenten"
+
+#: wpuf-functions.php:530
+msgid "Zip Archives"
+msgstr "Zip archieven"
+
+#: class/asset-loader.php:46 wpuf.php:713
+msgid "Please fix the errors to proceed"
+msgstr "Graag fouten herstellen om verder te gaan"
+
+#: includes/free/subscription.php:12
+msgid "Enable Recurring Payment"
+msgstr "Terugkerende betaling inschakelen"
+
+#: lib/gateway/bank.php:35
+msgid "Bank Payment Success Page"
+msgstr "(Bank)betaling Successpagina"
+
+#: lib/gateway/bank.php:86
+msgid "New bank order received at %s, please check it out: %s"
+msgstr "Nieuwe (bank) bestelling ontvangen op %s, Graag bekijken: %s"
+
+#: lib/gateway/bank.php:108
+msgid "Hello %s,"
+msgstr "Hallo %s,"
+
+#: templates/dashboard.php:4
+msgid "%s's Dashboard"
+msgstr "%s's Paneel"
+
+#: templates/reset-pass-form.php:19
+msgid "Confirm new password"
+msgstr "Bevestig nieuw wachtwoord"
+
+#: lib/gateway/bank.php:85
+msgid "[%s] New Bank Order Received"
+msgstr "[%s] Nieuwe (bank) bestelling ontvangen"
+
+#: lib/gateway/bank.php:109
+msgid "We have received your bank payment."
+msgstr "We hebben je betaling ontvangen."
+
+#: lib/gateway/bank.php:110
+msgid "Thanks for being with us."
+msgstr "Dank voor je keuze voor ons."
+
+#: templates/logged-in.php:10
+msgid "You are currently logged in! %s?"
+msgstr "Je bent nu ingelogd. %s?"
+
+#: templates/lost-pass-form.php:21
+msgid "Get New Password"
+msgstr "Vraag nieuw wachtwoord aan"
+
+#: wpuf-functions.php:514
+msgid "Audio"
+msgstr "Audio"
+
+#: admin/template.php:520 admin/template.php:578 admin/template.php:656
+#: class/upload.php:275 includes/fields/class-field-recaptcha.php:147
+#: includes/fields/class-field-sectionbreak.php:55
+#: templates/dashboard/list.php:10 templates/dashboard/posts.php:110
+#: wpuf-functions.php:1024
+msgid "Title"
+msgstr "Titel"
+
+#: includes/free/edit-profile.php:185
+msgid "About Yourself"
+msgstr "Over jezelf"
+
+#: includes/free/edit-profile.php:194 templates/dashboard/edit-profile.php:55
+msgid "New Password"
+msgstr "Nieuw wachtwoord"
+
+#: admin/tools.php:15
+msgid "Import"
+msgstr "Importeer"
+
+#: includes/free/edit-profile.php:116 includes/free/edit-profile.php:163
+msgid "(required)"
+msgstr "(verplicht)"
+
+#: class/transactions-list-table.php:43
+msgid "ID"
+msgstr "ID"
+
+#: includes/free/form-element.php:237 includes/free/form-element.php:272
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: class/transactions-list-table.php:45
+msgid "User"
+msgstr "Gebruiker"
+
+#: includes/free/form-element.php:242 includes/free/form-element.php:277
+msgid "Message"
+msgstr "Bericht"
+
+#: class/transactions-list-table.php:55 includes/free/form-element.php:13
+msgid "Date"
+msgstr "Datum"
+
+#: class/payment.php:22 class/payment.php:23
+msgid "PayPal"
+msgstr "PayPal"
+
+#: admin/premium.php:71 admin/premium.php:74
+#: includes/class-pro-upgrades.php:109 includes/free/form-element.php:496
+msgid "Conditional Logic"
+msgstr "Voorwaardelijke logica"
+
+#: includes/free/form-element.php:372
+msgid "New User Role"
+msgstr "Nieuwe gebruikersrol"
+
+#: includes/free/form-element.php:177
+msgid "Choose how you want the progressbar"
+msgstr "Kies hoe je de voortgangsbalk wilt"
+
+#: includes/free/form-element.php:167
+msgid "Multistep Progressbar Type"
+msgstr "Meerdere stappen voortgangsbalk type"
+
+#: includes/free/form-element.php:35
+msgid "Term &amp; Conditions"
+msgstr "Algemene voorwaarden"
+
+#: class/subscription.php:798
+msgid "Payment is complete"
+msgstr "Betaling is voltooid"
+
+#: includes/free/edit-user.php:23 includes/free/edit-user.php:26
+msgid "User doesn't exists"
+msgstr "Gebruiker bestaat niet"
+
+#: includes/free/edit-user.php:81
+msgid "User Deleted"
+msgstr "Gebruiker verwijderd"
+
+#: includes/free/edit-user.php:123 includes/free/edit-user.php:196
+msgid "Add New User"
+msgstr "Nieuwe gebruiker toevoegen"
+
+#: includes/free/edit-user.php:145
+msgid "User Added"
+msgstr "Gebruiker toegevoegd"
+
+#: includes/free/edit-user.php:179
+msgid "Role"
+msgstr "Rol"
+
+#: admin/premium.php:33 includes/fields/class-pro-upgrade-fields.php:19
+#: includes/free/form-element.php:16
+msgid "Country List"
+msgstr "Landen lijst"
+
+#: includes/fields/class-field-numeric.php:7
+#: includes/fields/class-pro-upgrade-fields.php:82
+#: includes/free/form-element.php:17
+msgid "Numeric Field"
+msgstr "Numeriek veld"
+
+#: includes/fields/class-pro-upgrade-fields.php:8
+#: includes/free/form-element.php:18
+msgid "Address Field"
+msgstr "Adres veld"
+
+#: includes/fields/class-pro-upgrade-fields.php:170
+#: includes/free/form-element.php:19
+msgid "Step Start"
+msgstr "Stap start"
+
+#: includes/free/form-element.php:129
+msgid "Send Email to Author After Exceeding Post Expiration Time"
+msgstr "Verstuur een e-mail naar de Auteur na het verlopen van de post vervaldatum/tijd"
+
+#: includes/free/form-element.php:155 includes/free/form-element.php:159
+msgid "Enable Multistep"
+msgstr "Activeer meerdere stappen"
+
+#: includes/free/form-element.php:162
+msgid "If checked, form will be displayed in frontend in multiple steps"
+msgstr "Indien aangevinkt, toont het formulier zich in meerdere stappen"
+
+#: class/subscription.php:911
+msgid "One time payment"
+msgstr "Eenmalige betaling"
+
+#: class/upload.php:276 wpuf-functions.php:1028
+msgid "Caption"
+msgstr "Onderschrift"
+
+#: class/payment.php:188
+msgid "Change Pack"
+msgstr "Verander pakket"
+
+#: includes/fields/class-abstract-fields.php:313
+msgid "Medium"
+msgstr "Medium"
+
+#: class/payment.php:205
+msgid "Selected Pack "
+msgstr "Geselecteerde pakket"
+
+#: class/payment.php:206
+msgid "Pack Price "
+msgstr "Pakketprijs"
+
+#: admin/class-tools.php:303
+msgid "All forms has been deleted"
+msgstr "Alle formulieren zijn verwijderd."
+
+#: admin/class-tools.php:327
+msgid "Page Installation"
+msgstr "Installatiepagina"
+
+#: admin/class-tools.php:330
+msgid "Clicking this button will create required pages for the plugin. Note: It'll not delete/replace existing pages."
+msgstr "Op deze knop klikken zorgt ervoor dat alle noodzakelijke pagina voor deze plugin worden aangemaakt. Opmerking: Het zal geen bestaande pagina's verwijderen/vervangen."
+
+#: admin/class-tools.php:363
+msgid "Delete Transactions"
+msgstr "Verwijder transacties"
+
+#: admin/class-tools.php:351
+msgid "Delete Registration Forms"
+msgstr "Verwijder registratieformulieren"
+
+#: includes/free/edit-profile.php:207
+msgid "Password Strength"
+msgstr "Wachtwoord sterkte"
+
+#: admin/class-admin-settings.php:105 admin/class-tools.php:358
+#: admin/transactions.php:2
+msgid "Transactions"
+msgstr "Transacties"
+
+#: class/render-form.php:1339 includes/free/edit-profile.php:209
+#: templates/dashboard/edit-profile.php:71
+msgid "Strength indicator"
+msgstr "Sterkte indicator"
+
+#: admin/class-tools.php:361
+msgid "This tool will delete all the transactions from the transaction table."
+msgstr "Deze tool zal alle transacties verwijderen uit de transactietabel."
+
+#: class/frontend-dashboard.php:88
+msgid "Post Deleted"
+msgstr "Bericht verwijderd"
+
+#: includes/free/edit-profile.php:257
+msgid "WPUF Post Lock"
+msgstr "WPUF Bericht blokkering"
+
+#: class/frontend-dashboard.php:175
+msgid "Author Info"
+msgstr "Auteursgegevens"
+
+#: includes/free/edit-profile.php:260
+msgid "Lock Post:"
+msgstr "Bericht blokkeren:"
+
+#: includes/free/edit-user.php:102
+msgid "%s"
+msgstr "%s"
+
+#: includes/free/edit-profile.php:266
+msgid "Lock user from creating new post."
+msgstr "Blokkeer gebruiker om nieuw bericht te plaatsen. "
+
+#: includes/free/edit-profile.php:270
+msgid "Lock Reason:"
+msgstr "Reden van blokkering:"
+
+#: includes/class-frontend-form-post.php:57
+msgid "You are not logged in"
+msgstr "Je bent niet ingelogd"
+
+#: includes/class-frontend-form-post.php:91
+msgid "Post Editing is disabled"
+msgstr "Wijziging bericht is niet actief"
+
+#: includes/class-frontend-form-post.php:67
+#: includes/class-frontend-form-post.php:97
+msgid "Invalid post"
+msgstr "Ongeldig bericht"
+
+#: includes/class-frontend-form-post.php:102
+msgid "You are not allowed to edit"
+msgstr "Je mag niet wijzigen"
+
+#: includes/class-frontend-form-post.php:113
+msgid "I don't know how to edit this post, I don't have the form ID"
+msgstr "Dit bericht kan niet verwerkt worden? Er is geen formulier ID"
+
+#: includes/class-frontend-form-post.php:125
+msgid "You can't edit a post while in pending mode."
+msgstr "Je kan geen bericht wijzigen terwijl dit bericht in afwacting is van goedkeuring."
+
+#: includes/class-frontend-form-post.php:534
+msgid "Something went wrong"
+msgstr "Iets is verkeerd gegaan"
+
+#: class/payment.php:27 class/payment.php:28
+msgid "Bank Payment"
+msgstr "(Bank)betaling"
+
+#: class/payment.php:82
+msgid "Please select your payment page from admin panel"
+msgstr "Graag jouw betalingspagina selecteren via admin paneel"
+
+#: class/payment.php:136
+msgid "You already have activated a free package previously."
+msgstr "Je hebt al eerder een gratis pakket geactiveerd. "
+
+#: class/payment.php:270
+msgid "Choose Your Payment Method"
+msgstr "Kies jouw betalingsmethode"
+
+#: class/payment.php:307
+msgid "Proceed"
+msgstr "Verder"
+
+#: class/payment.php:315
+msgid "No Payment gateway found"
+msgstr "Geen betalingsuitgang"
+
+#. translators: %s is site title name
+#: class/payment.php:505 lib/gateway/bank.php:107
+msgid "[%s] Payment Received"
+msgstr "[%s] Betaling ontvangen"
+
+#. translators: %s is site title name
+#: class/payment.php:507
+msgid "New payment received at %s"
+msgstr "Nieuwe betaling ontvangen op %s"
+
+#: class/render-form.php:87 includes/class-frontend-render-form.php:84
+msgid "Really Simple Captcha validation failed"
+msgstr "Really Simple Captcha validatie mislukt"
+
+#: class/render-form.php:136 includes/class-frontend-render-form.php:130
+msgid "reCAPTCHA validation failed"
+msgstr "reCAPTCHA validatie mislukt"
+
+#: class/subscription.php:433
+msgid "Add Subscription"
+msgstr "Inschrijving toevoegen"
+
+#: class/subscription.php:434
+msgid "Add New Subscription"
+msgstr "Nieuwe inschrijving toevoegen"
+
+#: class/subscription.php:436
+msgid "Edit Subscription"
+msgstr "Inschrijving wijzigen"
+
+#: class/subscription.php:437
+msgid "New Subscription"
+msgstr "Nieuwe inschrijving"
+
+#: class/subscription.php:438 class/subscription.php:439
+msgid "View Subscription"
+msgstr "Inschrijving bekijken"
+
+#: class/subscription.php:440
+msgid "Search Subscription"
+msgstr "Inschrijving zoeken"
+
+#: class/subscription.php:441
+msgid "No Subscription Found"
+msgstr "Geen inschrijving gevonden"
+
+#: class/subscription.php:442
+msgid "No Subscription Found in Trash"
+msgstr "Geen inschrijving gevonden in prullenbak"
+
+#: class/subscription.php:443
+msgid "Parent Subscription"
+msgstr "Hoofdinschrijving"
+
+#: class/subscription.php:935
+msgid "Sign Up"
+msgstr "Schrijf in"
+
+#: class/subscription.php:931
+msgid "Buy Now"
+msgstr "Koop nu"
+
+#. translators: %s: subscription link
+#: class/subscription.php:1066
+msgid "You must <a href=\"%s\">purchase a pack</a> before posting"
+msgstr "Je moet <a href=\"%s\">een pakket aankopen</a> voordat je berichten kan verzenden"
+
+#: class/render-form.php:1317 includes/free/edit-profile.php:200
+#: templates/registration-form.php:68
+msgid "Confirm Password"
+msgstr "Bevestig wachtwoord"
+
+#: includes/free/form-element.php:206
+msgid "New post created"
+msgstr "Nieuw bericht aangemaakt"
+
+#: includes/free/form-element.php:211
+msgid "A post has been edited"
+msgstr "Een bericht is gewijzigd"
+
+#: admin/html/form-submission-restriction.php:144
+#: includes/free/form-element.php:230 includes/free/form-element.php:267
+msgid "To"
+msgstr "Naar"
+
+#: includes/free/form-element.php:351
+msgid "Registration successful"
+msgstr "Registratie geslaagd"
+
+#: includes/free/form-element.php:352
+msgid "Profile updated successfully"
+msgstr "Profiel succesvol gewijzigd"
+
+#: includes/free/edit-profile.php:233 includes/free/form-element.php:356
+#: templates/dashboard/edit-profile.php:131
+msgid "Update Profile"
+msgstr "Profiel updaten"
+
+#: admin/template.php:189 includes/fields/class-abstract-fields.php:673
+msgid "Rich textarea"
+msgstr "Rich tekstruimte"
+
+#: admin/template.php:190 includes/fields/class-abstract-fields.php:674
+msgid "Teeny Rich textarea"
+msgstr "Teeny Rich tekstruimte"
+
+#: includes/free/form-element.php:413
+msgid "Registration success message"
+msgstr "Bericht geslaagde registratie"
+
+#: includes/free/form-element.php:420
+msgid "Update profile message"
+msgstr "Update proefielbericht"
+
+#: includes/free/form-element.php:457
+msgid "Submit Button text"
+msgstr "Tekst verzendingsknop"
+
+#: includes/free/form-element.php:464
+msgid "Update Button text"
+msgstr "Update knoptekst"
+
+#: admin/template.php:285
+msgid "show values"
+msgstr "toon waarde"
+
+#: admin/template.php:377 admin/template.php:401 admin/template.php:432
+#: admin/template.php:463 includes/fields/class-abstract-fields.php:612
+#: templates/dashboard/list.php:19 templates/dashboard/posts.php:119
+msgid "Options"
+msgstr "Opties"
+
+#: admin/template.php:427 admin/template.php:458
+#: includes/fields/class-abstract-fields.php:444
+#: includes/fields/class-field-dropdown.php:83
+msgid "Select Text"
+msgstr "Selecteer tekst"
+
+#: admin/template.php:609 includes/fields/class-field-image.php:110
+msgid "Number of images can be uploaded"
+msgstr "Aantal afbeeldingen die geüpload kunnen worden"
+
+#: admin/template.php:624 includes/fields/class-field-image.php:106
+msgid "Max. files"
+msgstr "Max. bestanden"
+
+#: admin/template.php:525
+msgid "HTML Codes"
+msgstr "HTML Codes"
+
+#: admin/template.php:557 includes/fields/class-field-hidden.php:48
+msgid "Meta Value"
+msgstr "Meta waarde"
+
+#: admin/template.php:558 includes/fields/class-field-hidden.php:52
+msgid "Enter the meta value"
+msgstr "Voer de meta waarde in"
+
+#: includes/fields/class-field-image.php:9 includes/free/form-element.php:9
+msgid "Image Upload"
+msgstr "Afbeelding Uploaden"
+
+#: admin/premium.php:42 includes/fields/class-pro-upgrade-fields.php:49
+#: includes/free/form-element.php:14
+msgid "File Upload"
+msgstr "Bestand uploaden"
+
+#: includes/fields/class-pro-upgrade-fields.php:137
+#: includes/free/form-element.php:12
+msgid "Repeat Field"
+msgstr "Veld herhalen"
+
+#: includes/free/form-element.php:15
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: includes/fields/class-field-recaptcha.php:9
+#: includes/free/form-element.php:32
+msgid "reCaptcha"
+msgstr "reCaptcha"
+
+#: includes/fields/class-pro-upgrade-fields.php:148
+#: includes/free/form-element.php:33
+msgid "Really Simple Captcha"
+msgstr "Really Simple Captcha"
+
+#: admin/premium.php:37 includes/fields/class-pro-upgrade-fields.php:71
+#: includes/free/form-element.php:34
+msgid "Action Hook"
+msgstr "Actie haak"
+
+#: class/transactions-list-table.php:52
+msgid "Payer"
+msgstr "Betaler"
+
+#: admin/class-tools.php:37
+msgid "Form Export"
+msgstr "Formulier exporteren"
+
+#: class/transactions-list-table.php:117 class/transactions-list-table.php:194
+msgid "Accept"
+msgstr "Accepteren"
+
+#: admin/class-tools.php:48 admin/class-tools.php:111
+msgid "Select individual"
+msgstr "Selecteer individueel"
+
+#: admin/class-tools.php:58 admin/class-tools.php:124 admin/tools.php:17
+msgid "Export"
+msgstr "Exporteren"
+
+#: admin/class-tools.php:98
+msgid "Registration Form Export"
+msgstr "Registratieformulier exporteren"
+
+#: admin/class-tools.php:140
+msgid "Import forms"
+msgstr "Importeer formulieren"
+
+#: includes/free/edit-profile.php:73
+msgid "<strong>Success</strong>: Profile updated"
+msgstr "<strong>Geslaagd</strong>:  Profiel is bijgewerkt."
+
+#: includes/free/edit-profile.php:103
+msgid "Usernames cannot be changed."
+msgstr "Gebruikersnamen kunnen niet veranderd worden."
+
+#: admin/class-tools.php:217
+msgid "Please select some form for exporting"
+msgstr "Graag een formulier selecteren om te exporteren. "
+
+#: includes/free/edit-profile.php:121
+msgid "Display to Public as"
+msgstr "Toon aan bezoekers als"
+
+#: admin/class-tools.php:336 admin/class-tools.php:340
+msgid "Reset Settings"
+msgstr "Reset instellingen"
+
+#: includes/free/edit-profile.php:159
+msgid "Contact Info"
+msgstr "Contactgegevens"
+
+#: admin/class-tools.php:345
+msgid "Delete Forms"
+msgstr "Formulieren verwijderen"
+
+#: includes/free/edit-profile.php:191
+msgid "Share a little biographical information to fill out your profile. This may be shown publicly."
+msgstr "Plaats wat informatie over jouw biografie om jouw profiel aan te vullen. Dit kan zichtbaar worden voor andere bezoekers. "
+
+#: admin/class-tools.php:350
+msgid "Delete Post Forms"
+msgstr "Verwijder berichtformulieren"
+
+#: includes/free/edit-profile.php:202
+msgid "Type your new password again."
+msgstr "Type jouw nieuwe wachtwoord nogmaals. "
+
+#: admin/template.php:417 admin/template.php:448
+#: includes/fields/class-abstract-fields.php:448
+#: includes/fields/class-field-dropdown.php:87
+msgid "First element of the select dropdown. Leave this empty if you don't want to show this field"
+msgstr "Eerste element van de dropdown selectie. Laat dit leeg als je dit veld niet wilt laten zien. "
+
+#: admin/class-tools.php:66 admin/class-tools.php:131
+msgid "Sorry you have no form to export"
+msgstr "Sorry, je hebt geen formulier om te exporteren."
+
+#: admin/class-tools.php:307
+msgid "Settings has been cleared!"
+msgstr "Instellingen zijn gewist."
+
+#: admin/class-tools.php:311
+msgid "All transactions has been deleted!"
+msgstr "Alle transacties zijn verwijderd."
+
+#: admin/class-tools.php:352
+msgid "Delete Subscriptions"
+msgstr "Verwijder inschrijvingen"
+
+#: admin/class-tools.php:353
+msgid "Delete Coupons"
+msgstr "Verwijder kortingsbonnen"
+
+#: class/transactions-list-table.php:118 class/transactions-list-table.php:195
+msgid "Reject"
+msgstr "Weigeren"
+
+#. translators: %s: login url
+#: class/payment.php:76 includes/free/edit-profile.php:32
+#: includes/free/edit-user.php:40 templates/unauthorized.php:4
+msgid "This page is restricted. Please %s to view this page."
+msgstr "Deze pagina is beperkt toegankelijk. Graag eerst %s om deze pagina te bekijken."
+
+#: includes/class-frontend-form-post.php:555
+msgid "Invalid email address."
+msgstr "Ongeldig e-mailadres"
+
+#: class/payment.php:134
+msgid "Your free package has been activated. Enjoy!"
+msgstr "Jouw gratis pakket is geactiveerd. Veel plezier."
+
+#: class/payment.php:186
+msgid "Pricing & Plans"
+msgstr "Prijzen & pakketten"
+
+#: class/payment.php:224
+msgid "Apply Coupon"
+msgstr "Kortingsbon toepassen"
+
+#: class/payment.php:228
+msgid "Have a discount code?"
+msgstr "Heb je een kortingsbon?"
+
+#: class/render-form.php:1401 includes/fields/class-field-post-taxonomy.php:127
+#: includes/fields/class-field-post-taxonomy.php:258
+msgid "-- Select --"
+msgstr "-- Selecteren --"
+
+#: class/subscription.php:798
+msgid "Congratulations, your payment has been completed!"
+msgstr "Gefeliciteerd, je betaling is voltooid."
+
+#: includes/free/edit-user.php:37
+msgid "You don't have permission for this purpose"
+msgstr "Je hebt geen toestemming voor dit doel"
+
+#: includes/free/edit-user.php:263
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr "<strong>FOUT</strong>: Oeps. Er ging wat fout bij het registreren van je account... Neem contact op met onze <a href=\"mailto:%s\">webmaster</a>."
+
+#: includes/free/form-element.php:223 includes/free/form-element.php:261
+msgid "Enable post notification"
+msgstr "Berichtmelding inschakelen"
+
+#: includes/free/form-element.php:364
+msgid "Enable Email Verfication"
+msgstr "E-mail-verificatie inschakelen"
+
+#: includes/free/loader.php:107
+msgid "Registration form builder is a two way form which can be used both for <strong>user registration</strong> and <strong>profile editing</strong>."
+msgstr "Registratieformulier bouwer is een 2 wegs formulier die gebruikt kan worden voor het <strong>registreren van gebruikers</strong> alsook het <strong>bewerken van een gebruikersprofiel</strong>."
+
+#: class/subscription.php:825
+msgid "<p><i>You have a subscription pack activated. </i></p>"
+msgstr "<p><i>Je hebt een abonnementpakket geactiveerd. </i></p>"
+
+#: admin/template.php:188 includes/fields/class-abstract-fields.php:672
+msgid "Normal"
+msgstr "Normaal"
+
+#: class/render-form.php:1673 class/transactions-list-table.php:122
+#: class/transactions-list-table.php:199 includes/free/edit-user.php:105
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: admin/settings-options.php:106
+msgid "Default"
+msgstr "Standaard"
+
+#: admin/template.php:583 class/upload.php:277
+#: includes/fields/class-field-sectionbreak.php:63 wpuf-functions.php:1032
+msgid "Description"
+msgstr "Beschrijving"
+
+#: admin/template.php:24
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: admin/template-post.php:158 includes/fields/class-abstract-fields.php:468
+msgid "Order By"
+msgstr "Sorteren op"
+
+#: admin/template-post.php:147 includes/fields/class-abstract-fields.php:428
+msgid "Type"
+msgstr "Type"
+
+#: admin/template-post.php:161 includes/fields/class-abstract-fields.php:472
+msgid "Term ID"
+msgstr "Term-ID"
+
+#: admin/template-post.php:203 includes/fields/class-abstract-fields.php:345
+msgid "Visibility"
+msgstr "Zichtbaarheid"
+
+#: admin/class-admin-subscription.php:658
+msgid "This user is using recurring subscription pack"
+msgstr "Deze gebruiker maakt gebruik van de terugkerende abonnementen pakket"
+
+#: admin/class-admin-subscription.php:845
+msgid "Delete Package"
+msgstr "Verwijder pakket"
+
+#: admin/template.php:132 admin/template.php:195
+msgid "Word Restriction"
+msgstr "Woord beperking"
+
+#: admin/template.php:136 admin/template.php:199
+msgid "Numebr of words the author to be restricted in"
+msgstr "Beperk het aantal woorden waaruit de gebruikersnaam mag bestaan"
+
+#: admin/template-post.php:247
+msgid "all"
+msgstr "Alle"
+
+#: admin/template-post.php:247
+msgid "Show All"
+msgstr "Toon alle"
+
+#: admin/template-post.php:250
+msgid "hide"
+msgstr "verberg"
+
+#: admin/template-post.php:250
+msgid "Hide These Countries"
+msgstr "Verberg deze landen"
+
+#: admin/template-post.php:251
+msgid "Chose Country to hide from List"
+msgstr "Kies land(en) om te verbergen van lijst"
+
+#: admin/template-post.php:255
+msgid "show"
+msgstr "toon"
+
+#: admin/template-post.php:255
+msgid "Show These Countries"
+msgstr "Toon deze landen"
+
+#: admin/template-post.php:256
+msgid "Add Country to List"
+msgstr "Land toevoegen aan lijst"
+
+#: admin/class-admin-subscription.php:71 admin/class-admin-subscription.php:74
+msgid "Subscription pack updated."
+msgstr "Inschrijvingspakket bijgewerkt"
+
+#: admin/class-admin-subscription.php:75
+msgid "Subscription pack restored to revision from %s"
+msgstr "Inschrijvingspakket hersteld voor herziening van%s"
+
+#: admin/class-admin-subscription.php:76
+msgid "Subscription pack published."
+msgstr "Inschrijvingspakket gepubliceerd"
+
+#: admin/class-admin-subscription.php:77
+msgid "Subscription pack saved."
+msgstr "Inschrijvingspakket opgeslagen."
+
+#: admin/class-admin-subscription.php:78
+msgid "Subscription pack submitted."
+msgstr "Inschrijvingspakket verzonden. "
+
+#: admin/class-admin-subscription.php:80
+msgid "Subscription pack draft updated."
+msgstr "Concept inschrijvingspakket bijgewerkt. "
+
+#: admin/settings-options.php:200
+msgid "Enable Image Caption"
+msgstr "Afbeelding onderschrift inschakelen"
+
+#: admin/settings-options.php:201
+msgid "Allow users to update image/video title, caption and description"
+msgstr "Gebruikers toestaan om afbeelding/video-titel, onderschrift en beschrijving te updaten"
+
+#: admin/class-admin-settings.php:108 admin/tools.php:13
+msgid "Tools"
+msgstr "Tools"
+
+#: admin/settings-options.php:166
+msgid "Default Post Owner"
+msgstr "Standaard berichteigenaar"
+
+#: admin/settings-options.php:167
+msgid "If guest post is enabled and user details are OFF, the posts are assigned to this user"
+msgstr "Als 'Bericht door gast' uitgeschakeld is en gebruikergegevens UIT zijn, wordt het bericht toegewezen aan deze gebruiker"
+
+#: admin/settings-options.php:97
+msgid "Admin area access"
+msgstr "Toegang admin ruimte"
+
+#: admin/settings-options.php:102
+msgid "Admin Only"
+msgstr "Alleen admin"
+
+#: admin/settings-options.php:133
+msgid "Load Scripts"
+msgstr "Scripts laden"
+
+#: admin/settings-options.php:134
+msgid "Load scripts/styles in all pages"
+msgstr "Scripts/stijlen laden in alle pagina's"
+
+#: admin/settings-options.php:181
+msgid "Insert Photo image size"
+msgstr "Foto/afbeelding-formaat invoegen"
+
+#: admin/settings-options.php:182
+msgid "Default image size of \"<strong>Insert Photo</strong>\" button in post content area"
+msgstr "Standaard afbeeldingsgrootte van knop \"<strong>Foto invoegen</strong>\" in ruimte van berichtinhoud"
+
+#: admin/settings-options.php:189
+msgid "Insert Photo image type"
+msgstr "Foto/afbeelding-type invoegen"
+
+#: admin/settings-options.php:190
+msgid "Default image type of \"<strong>Insert Photo</strong>\" button in post content area"
+msgstr "Standaard afbeeldingstype van knop \"<strong>Foto invoegen</strong>\" in ruimte van berichtinhoud"
+
+#: admin/settings-options.php:193
+msgid "Image only"
+msgstr "Alleen afbeelding"
+
+#: admin/settings-options.php:194
+msgid "Image with link"
+msgstr "Afbeelding met link"
+
+#: admin/settings-options.php:207
+msgid "Default Post Form"
+msgstr "Standaard berichtformulier"
+
+#: admin/settings-options.php:208
+msgid "Fallback form for post editing if no associated form found"
+msgstr "Reserve formlier voor berichtwijziging als geen gepaste formulier is gevonden"
+
+#: admin/settings-options.php:149
+msgid "Custom CSS codes"
+msgstr "Aangepaste CSS codes"
+
+#: admin/settings-options.php:150
+msgid "If you want to add your custom CSS code, it will be added on page header wrapped with style tag"
+msgstr "Als je een aangepaste CSS code wilt toevoegen, zal dit toegevoegd worden in de header en ingesloten met 'style tag'"
+
+#: admin/settings-options.php:218
+msgid "Users can edit post?"
+msgstr "Kunnen gebruikers berichten wijzigen?"
+
+#: admin/settings-options.php:219
+msgid "Users will be able to edit their own posts"
+msgstr "Gebruikers zullen in staat zijn om eigen berichten te wijzigen"
+
+#: admin/class-admin-subscription.php:203
+msgid "Amount"
+msgstr "Bedrag"
+
+#: admin/settings-options.php:229
+msgid "User can delete post?"
+msgstr "Kan gebruiker berichten verwijderen?"
+
+#: admin/settings-options.php:230
+msgid "Users will be able to delete their own posts"
+msgstr "Gebruikers zullen in staat zijn hun eigen berichten te verwijderen"
+
+#: admin/settings-options.php:240
+msgid "Pending Post Edit"
+msgstr "Berichtswijziging in behandeling"
+
+#: admin/settings-options.php:241
+msgid "Disable post editing while post in \"pending\" status"
+msgstr "Schakel berichtswijziging uit als bericht \"in behandeling\" status is"
+
+#: admin/settings-options.php:247
+msgid "Posts per page"
+msgstr "Berichten per pagina"
+
+#: admin/settings-options.php:248
+msgid "How many posts will be listed in a page"
+msgstr "Hoeveel berichten zullen worden weergegeven op een pagina?"
+
+#: admin/settings-options.php:254
+msgid "Show user bio"
+msgstr "Toon gebruikersinfo"
+
+#: admin/settings-options.php:255
+msgid "Users biographical info will be shown"
+msgstr "Biografische informatie van gebruikers zal worden getoond"
+
+#: admin/settings-options.php:261
+msgid "Show post count"
+msgstr "Toon berichtenaantal"
+
+#: admin/settings-options.php:262
+msgid "Show how many posts are created by the user"
+msgstr "Toon hoeveel berichten door de gebruiker zijn aangemaakt"
+
+#: admin/settings-options.php:268
+msgid "Show Featured Image"
+msgstr "Toon uitgelichte afbeelding"
+
+#: admin/settings-options.php:281
+msgid "Featured Image size"
+msgstr "Grootte van uitgelichte afbeelding"
+
+#: admin/settings-options.php:343
+msgid "Login/Registration override"
+msgstr "Login/Registratie overschrijven"
+
+#: admin/settings-options.php:344
+msgid "If enabled, default login and registration forms will be overridden by WPUF with pages below"
+msgstr "Als ingeschakeld, zullen standaard login en registratie formulieren worden overschreven door WPUF met onderstaande pagina's"
+
+#: admin/settings-options.php:350
+msgid "Registration Page"
+msgstr "Registratiepagina"
+
+#: admin/settings-options.php:351
+msgid "Select the page you want to use as registration page override <em>(should have shortcode)</em>"
+msgstr "Selecteer de pagina die je wilt gebruiken als overschrijvende registratiepagina <em>(moet een shortcode hebben)</em>"
+
+#: admin/settings-options.php:357
+msgid "Login Page"
+msgstr "Loginpagina"
+
+#: admin/settings-options.php:358
+msgid "Select the page which contains <code>[wpuf-login]</code> shortcode"
+msgstr "Selecteer de pagina dat de <code>[wpuf-login]</code> shortcode bevat"
+
+#: admin/settings-options.php:396
+msgid "Subscription Pack Page"
+msgstr "Pagina inschrijvingspakket"
+
+#: admin/settings-options.php:397
+msgid "Select the page where <code>[wpuf_sub_pack]</code> located."
+msgstr "Selecteer de pagina waar <code>[wpuf_sub_pack]</code> zich bevindt"
+
+#: admin/settings-options.php:403
+msgid "Subscription at registration"
+msgstr "Inschrijving tijdens registratie"
+
+#: admin/settings-options.php:404
+msgid "Registration time redirect to subscription page"
+msgstr "Registratietijd doorverwijzen naar inschrijfpagina"
+
+#: admin/settings-options.php:409
+msgid "Currency"
+msgstr "Muntsoort"
+
+#: includes/free/post-form-templates/the_events_calendar.php:105
+msgid "Currency Symbol"
+msgstr "Symbool muntsoort"
+
+#: class/transactions-list-table.php:47
+#: includes/free/post-form-templates/the_events_calendar.php:115
+msgid "Cost"
+msgstr "Prijs"
+
+#: admin/settings-options.php:456
+msgid "Enable demo/sandbox mode"
+msgstr "Demo/sandbox-modus inschakelen"
+
+#: admin/settings-options.php:457
+msgid "When sandbox mode is active, all payment gateway will be used in demo mode"
+msgstr "Als sandbox-modus actief is, worden alle betaling-gateways gebruikt in demo-modus"
+
+#: admin/class-admin-settings.php:88
+msgid "User Frontend"
+msgstr "User Frontend"
+
+#: admin/settings-options.php:463
+msgid "Payment Page"
+msgstr "Betalingspagina"
+
+#: admin/settings-options.php:464
+msgid "This page will be used to process payment options"
+msgstr "Deze pagina wordt gebruikt om betalinsopties te verwerken"
+
+#: admin/html/form-settings-payment.php:88 admin/settings-options.php:470
+msgid "Payment Success Page"
+msgstr "Betaling succespagina"
+
+#: admin/settings-options.php:471 lib/gateway/bank.php:36
+msgid "After payment users will be redirected here"
+msgstr "Na betaling worden gebruikers doorverwezen naar hier"
+
+#: admin/settings-options.php:477
+msgid "Payment Gateways"
+msgstr "Betating-gateways"
+
+#: admin/settings-options.php:478
+msgid "Active payment gateways"
+msgstr "Activeer betaling gateways"
+
+#: admin/settings-options.php:569
+msgid "Select profile/registration forms for user roles. These forms will be used to populate extra edit profile fields in backend."
+msgstr "Selecteer profiel/registratie-formulieren voor gebruikersrechten. Deze formulieren zullen gebruikt worden om extra profiel wijzigingsvelden te verzamelen in de sitebeheer. "
+
+#: admin/class-admin-subscription.php:202 class/subscription.php:347
+msgid "Pack Name"
+msgstr "Pakketnaam"
+
+#: admin/class-admin-subscription.php:206
+msgid "Duration"
+msgstr "Duur"
+
+#: includes/free/edit-user.php:98
+msgid "Action"
+msgstr "Handeling"
+
+#: admin/class-admin-subscription.php:57
+msgid "Pack Description"
+msgstr "Pakketbeschrijving"
+
+#: admin/class-admin-subscription.php:360
+msgid "Billing amount:"
+msgstr "Factuurbedrag:"
+
+#: admin/class-admin-subscription.php:361
+msgid "Billing amount each cycle:"
+msgstr "Factuurbedrag per cyclus:"
+
+#: admin/class-admin-subscription.php:369
+msgid "Expires In:"
+msgstr "Verloopt over:"
+
+#: admin/class-admin-subscription.php:565
+msgid "Day(s)"
+msgstr "Dag(en)"
+
+#: admin/class-admin-subscription.php:566
+msgid "Week(s)"
+msgstr "Week/weken"
+
+#: admin/class-admin-subscription.php:567
+msgid "Month(s)"
+msgstr "Maand(en)"
+
+#: admin/class-admin-subscription.php:568
+msgid "Year(s)"
+msgstr "Jaar"
+
+#: admin/class-admin-subscription.php:820
+msgid "Assign Package"
+msgstr "Pakket toewijzen"
+
+#: admin/template-post.php:36 includes/fields/class-field-post-content.php:133
+msgid "Enable Image Insertion"
+msgstr "Afbeelding invoeging inschakelen"
+
+#: admin/template-post.php:42 includes/fields/class-field-post-content.php:135
+msgid "Enable image upload in post area"
+msgstr "Afbeelding uploaden inschakelen in berichtruimte"
+
+#: admin/template-post.php:88 admin/template.php:608
+#: includes/fields/class-field-featured-image.php:116
+#: includes/fields/class-field-image.php:101
+msgid "Enter maximum upload size limit in KB"
+msgstr "Voer maximale upload grootte in  KB"
+
+#: admin/template-post.php:99 admin/template.php:619
+#: includes/fields/class-field-featured-image.php:112
+#: includes/fields/class-field-image.php:97
+msgid "Max. file size"
+msgstr "Max. bestandsgrootte"
+
+#: admin/template-post.php:152 includes/fields/class-abstract-fields.php:434
+msgid "Text Input"
+msgstr "Tekstinvoer"
+
+#: admin/template-post.php:153 includes/fields/class-abstract-fields.php:435
+msgid "Ajax"
+msgstr "Ajax"
+
+#: admin/template-post.php:163 includes/fields/class-abstract-fields.php:474
+msgid "Count"
+msgstr "Aantal"
+
+#: admin/template-post.php:171 includes/fields/class-abstract-fields.php:488
+msgid "ASC"
+msgstr "Oplopend"
+
+#: admin/template-post.php:172 includes/fields/class-abstract-fields.php:489
+msgid "DESC"
+msgstr "Aflopend"
+
+#: admin/template-post.php:177 includes/fields/class-abstract-fields.php:498
+msgid "Selection Type"
+msgstr "Selectie type"
+
+#: admin/template-post.php:179 includes/fields/class-abstract-fields.php:501
+msgid "Exclude"
+msgstr "Uitzonderen"
+
+#: admin/template-post.php:180 includes/fields/class-abstract-fields.php:502
+msgid "Include"
+msgstr "Insluiten"
+
+#: admin/template-post.php:181 includes/fields/class-abstract-fields.php:503
+msgid "Child of"
+msgstr "Onderdeel van"
+
+#: admin/template-post.php:186
+msgid "Selection terms"
+msgstr "Selectievoorwaarden"
+
+#: admin/template-post.php:209 includes/fields/class-abstract-fields.php:536
+msgid "Visible on product page"
+msgstr "Zichtbaar op de productpagina"
+
+#: admin/template.php:20
+msgid "Click and Drag to rearrange"
+msgstr "Klik en sleep om te herschikken"
+
+#: admin/template.php:25
+msgid "Toggle"
+msgstr "Inklappen"
+
+#: admin/template.php:69 includes/fields/class-abstract-fields.php:276
+msgid "Field Label"
+msgstr "Veldlabel"
+
+#: admin/template.php:70 includes/fields/class-abstract-fields.php:280
+msgid "Enter a title of this field"
+msgstr "Voer een titel in van dit veld"
+
+#: admin/template.php:75 admin/template.php:550
+#: includes/fields/class-abstract-fields.php:363
+#: includes/fields/class-field-hidden.php:39
+msgid "Meta Key"
+msgstr "Meta Key"
+
+#: admin/template.php:76 admin/template.php:551
+#: includes/fields/class-abstract-fields.php:367
+#: includes/fields/class-field-hidden.php:43
+msgid "Name of the meta key this field will save to"
+msgstr "Naam van de meta key waarmee dit veld opgeslagen wordt"
+
+#: admin/template.php:87 includes/fields/class-abstract-fields.php:285
+msgid "Help text"
+msgstr "Hulptekst"
+
+#: admin/template.php:88 includes/fields/class-abstract-fields.php:289
+msgid "Give the user some information about this field"
+msgstr "Geef de gebruiker wat informatie over dit veld"
+
+#: admin/template.php:92 includes/fields/class-abstract-fields.php:324
+#: includes/fields/class-field-column.php:86
+msgid "CSS Class Name"
+msgstr "CSS Class naam"
+
+#: admin/template.php:93
+msgid "Add a CSS class name for this field"
+msgstr "Voeg een CSS Class naam in voor dit veld"
+
+#: admin/template.php:122 admin/template.php:180
+#: includes/fields/class-abstract-fields.php:575
+#: includes/fields/class-abstract-fields.php:660
+msgid "Default value"
+msgstr "Standaardwaarde"
+
+#: admin/template.php:123 includes/fields/class-abstract-fields.php:581
+#: includes/fields/class-abstract-fields.php:664
+msgid "The default value this field will have"
+msgstr "De standaardwaarde dat dit veld zal hebben"
+
+#: admin/template.php:127 includes/fields/class-abstract-fields.php:586
+msgid "Size"
+msgstr "Grootte"
+
+#: admin/template.php:128 includes/fields/class-abstract-fields.php:591
+msgid "Size of this input field"
+msgstr "Grootte van dit invoerveld"
+
+#: admin/template.php:165 includes/fields/class-abstract-fields.php:630
+msgid "Rows"
+msgstr "Rijen"
+
+#: admin/template.php:170 includes/fields/class-abstract-fields.php:639
+#: includes/fields/class-field-column.php:9
+msgid "Columns"
+msgstr "Kolommen"
+
+#: admin/settings-options.php:159
+msgid "Edit Page"
+msgstr "Bewerkenpagina"
+
+#: admin/settings-options.php:103
+msgid "Admins, Editors"
+msgstr "Beheerders, Redacteuren"
+
+#: admin/settings-options.php:104
+msgid "Admins, Editors, Authors"
+msgstr "Beheerders, Redacteuren, Auteurs"
+
+#: admin/settings-options.php:105
+msgid "Admins, Editors, Authors, Contributors"
+msgstr "Beheerders, Redacteuren, Auteurs, medebeheerders"
+
+#: admin/settings-options.php:111
+msgid "Override the post edit link"
+msgstr "De link voor berichtbewerken overschrijven"
+
+#: admin/settings-options.php:112
+msgid "Users see the edit link in post if s/he is capable to edit the post/page. Selecting <strong>Yes</strong> will override the default WordPress edit post link in frontend"
+msgstr "Gebruikers zien de link om een bericht te bewerken als hij/zij in staat is om een bericht/pagina te wijzigen. Selectie van <strong>'Ja'</strong> zal de standaard WordPress-link om berichten te bewerken in de website frontend overschrijven."
+
+#: admin/settings-options.php:174
+msgid "Custom Fields in post"
+msgstr "Extra velden in bericht"
+
+#: admin/settings-options.php:175
+msgid "Show custom fields on post content area"
+msgstr "Extra velden tonen in ruimte van berichtinhoud"
+
+#: admin/class-admin-subscription.php:440 includes/free/form-element.php:61
+msgid "Enable Post Expiration"
+msgstr "Activeer vervaldatum voor bericht"
+
+#: admin/class-admin-subscription.php:452
+#: admin/class-admin-subscription.php:724 includes/free/form-element.php:67
+msgid "Post Expiration Time"
+msgstr "Tijd voor vervaldatum van bericht"
+
+#: admin/class-admin-subscription.php:482 includes/free/form-element.php:118
+msgid "Status of post after post expiration time is over "
+msgstr "Status van de bericht na het verstrijken van de einddatum/tijd"
+
+#: admin/class-admin-subscription.php:713
+msgid "Post Expiration Enabled"
+msgstr "Vervaltijd voor bericht geactiveerd"
+
+#: admin/template-post.php:164 includes/fields/class-abstract-fields.php:475
+msgid "Term Group"
+msgstr "Term-groep"
+
+#: admin/template-post.php:169 includes/fields/class-abstract-fields.php:484
+msgid "Order"
+msgstr "Volgorde"
+
+#: admin/template-post.php:191
+msgid "WooCommerce Attribute"
+msgstr "WooCommerce eigenschap"
+
+#: admin/template-post.php:197 includes/fields/class-abstract-fields.php:525
+msgid "This taxonomy is a WooCommerce attribute"
+msgstr "Deze taxonomie is een WooCommerce eigenschap"
+
+#: admin/template.php:117 admin/template.php:175
+#: includes/fields/class-abstract-fields.php:564
+#: includes/fields/class-abstract-fields.php:648
+msgid "Placeholder text"
+msgstr "Tekst placeholder"
+
+#: admin/template.php:118 includes/fields/class-abstract-fields.php:570
+#: includes/fields/class-abstract-fields.php:652
+msgid "Text for HTML5 placeholder attribute"
+msgstr "Tekst voor HTML5 placeholder attribuut"
+
+#: admin/settings-options.php:337
+msgid "If enabled, users after registration will be logged in to the system"
+msgstr "Indien ingeschakeld zullen gebruikers direct na registratie ingelogd worden in het systeem "
+
+#: admin/class-admin-subscription.php:242
+#: admin/html/form-settings-display.php:41 admin/post-forms-list-table.php:360
+#: admin/settings-options.php:116 admin/settings-options.php:127
+#: admin/settings-options.php:223 admin/settings-options.php:234
+#: admin/template.php:63 class/asset-loader.php:50
+#: includes/fields/class-abstract-fields.php:297
+#: includes/fields/class-abstract-fields.php:378
+#: includes/fields/class-abstract-fields.php:392
+#: includes/fields/class-abstract-fields.php:456
+#: includes/fields/class-field-checkbox.php:74
+#: includes/fields/class-field-radio.php:83 includes/free/form-element.php:499
+#: wpuf.php:716
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/class-admin-subscription.php:244
+#: admin/html/form-settings-display.php:40 admin/post-forms-list-table.php:361
+#: admin/settings-options.php:117 admin/settings-options.php:128
+#: admin/settings-options.php:224 admin/settings-options.php:235
+#: admin/template.php:64 class/asset-loader.php:51
+#: includes/fields/class-abstract-fields.php:298
+#: includes/fields/class-abstract-fields.php:379
+#: includes/fields/class-abstract-fields.php:393
+#: includes/fields/class-abstract-fields.php:457
+#: includes/fields/class-field-checkbox.php:75
+#: includes/fields/class-field-radio.php:84 includes/free/form-element.php:500
+#: wpuf.php:717
+msgid "No"
+msgstr "Nee"
+
+#: class/post-form-templates/post.php:109
+#: includes/fields/class-field-post-tags.php:6
+msgid "Tags"
+msgstr "Tags"
+
+#: admin/html/form-settings-post-edit.php:76
+#: admin/html/form-settings-post.php:175 includes/free/form-element.php:450
+msgid "Custom URL"
+msgstr "Aangepaste URL"
+
+#: admin/html/form-settings-post-edit.php:7
+msgid "Update"
+msgstr "Bijwerken"
+
+#: admin/installer.php:42
+msgid "Congratulations!"
+msgstr "Gefeliciteerd!"
+
+#: admin/html/form-submission-restriction.php:11 admin/template-post.php:160
+#: includes/fields/class-abstract-fields.php:471
+#: includes/free/edit-profile.php:98 templates/registration-form.php:30
+msgid "Name"
+msgstr "Naam"
+
+#: admin/installer.php:84 admin/settings-options.php:24
+#: includes/free/admin/shortcode-button.php:79 wpuf-functions.php:2039
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: admin/html/form-settings-post.php:185
+msgid "Open"
+msgstr "Open"
+
+#: admin/html/form-settings-post.php:186
+msgid "Closed"
+msgstr "Gesloten"
+
+#: includes/class-field-manager.php:185
+msgid "Custom Fields"
+msgstr "Extra velden"
+
+#: admin/html/form-settings-post.php:29 admin/post-forms-list-table.php:312
+msgid "Post Type"
+msgstr "Berichttype"
+
+#: admin/html/form-settings-post-edit.php:61
+#: admin/html/form-settings-post.php:160 includes/free/form-element.php:427
+msgid "Page"
+msgstr "Pagina"
+
+#: admin/form.php:69 admin/form.php:107 admin/post-forms-list-table-view.php:8
+msgid "Add Form"
+msgstr "Formulier toevoegen"
+
+#: admin/class-admin-subscription.php:72
+msgid "Custom field updated."
+msgstr "Aangepast veld bijgewerkt."
+
+#: admin/template-post.php:149 includes/fields/class-field-dropdown.php:9
+#: includes/fields/class-field-dropdown.php:103
+msgid "Dropdown"
+msgstr "Dropdown"
+
+#: admin/post-forms-list-table.php:315 admin/premium.php:39
+#: includes/fields/class-pro-upgrade-fields.php:159
+#: includes/free/form-element.php:31
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/form.php:189 includes/free/form-element.php:218
+#: includes/free/form-element.php:256
+msgid "Notification"
+msgstr "Melding"
+
+#: admin/installer.php:96
+msgid "Please select a gateway for payment"
+msgstr "Selecteer een gateway voor betaling"
+
+#: admin/installer.php:97
+msgid "Thank You"
+msgstr "Bedankt"
+
+#: admin/installer.php:97
+msgid "<h1>Payment is complete</h1><p>Congratulations, your payment has been completed!</p>"
+msgstr "<h1>Betaling is compleet</h1><p>Gefeliciteerd, jouw betaling is compleet!</p>"
+
+#: admin/installer.php:98
+msgid "Order Received"
+msgstr "Bestelling ontvangen"
+
+#: admin/installer.php:98
+msgid "Hi, we have received your order. We will validate the order and will take necessary steps to move forward."
+msgstr "Hoi, we hebben jouw bestelling ontvangen. We zullen de bestelling valideren en noodzakelijke stappen nemen om verder te gaan. "
+
+#: admin/installer.php:184 includes/free/admin/shortcode-button.php:95
+msgid "Registration"
+msgstr "Registratie"
+
+#: admin/installer.php:193
+msgid "Sample Form"
+msgstr "Voorbeeld formulier"
+
+#: admin/installer.php:32
+msgid "Skip Setup"
+msgstr "Setup overslaan"
+
+#: admin/installer.php:95
+msgid "[wpuf_sub_pack]"
+msgstr "[wpuf_sub_pack]"
+
+#: admin/settings-options.php:14
+msgid "General Options"
+msgstr "Algemene opties"
+
+#: admin/settings-options.php:34
+msgid "Login / Registration"
+msgstr "Login / Registratie"
+
+#: admin/posting.php:72 class/asset-loader.php:55 class/render-form.php:1673
+#: wpuf.php:736
+msgid "Are you sure?"
+msgstr "Weet je het zeker?"
+
+#: admin/posting.php:80 class/asset-loader.php:63 wpuf.php:747
+msgid "Allowed Files"
+msgstr "Toegestane bestanden"
+
+#: admin/class-admin-subscription.php:73
+msgid "Custom field deleted."
+msgstr "Aangepast veld verwijderd."
+
+#: admin/form.php:71 admin/form.php:109 admin/installer.php:86
+#: admin/post-forms-list-table.php:406 class/subscription.php:435
+#: includes/free/admin/shortcode-button.php:87 includes/free/edit-user.php:104
+msgid "Edit"
+msgstr "Wijzigen"
+
+#: admin/installer.php:95 class/subscription.php:410 class/subscription.php:430
+#: class/subscription.php:431 class/subscription.php:432
+#: includes/free/admin/shortcode-button.php:99 wpuf-functions.php:2022
+msgid "Subscription"
+msgstr "Inschrijving"
+
+#: admin/form.php:46 admin/form.php:66 admin/form.php:68 admin/form.php:104
+msgid "Forms"
+msgstr "Formulieren"
+
+#: admin/form.php:67 admin/form.php:105
+msgid "Form"
+msgstr "Formulier"
+
+#: admin/form.php:70 admin/form.php:108
+msgid "Add New Form"
+msgstr "Nieuw formulier toevoegen"
+
+#: admin/form.php:72 admin/form.php:110
+msgid "Edit Form"
+msgstr "Formulier wijzigen"
+
+#: admin/form.php:73 admin/form.php:111
+msgid "New Form"
+msgstr "Nieuw formulier"
+
+#: admin/form.php:74 admin/form.php:75 admin/form.php:112 admin/form.php:113
+msgid "View Form"
+msgstr "Formulier bekijken"
+
+#: admin/post-forms-list-table.php:311
+msgid "Form Name"
+msgstr "Formuliernaam"
+
+#: admin/class-admin-subscription.php:469 admin/html/form-settings-post.php:56
+#: admin/post-forms-list-table.php:313
+msgid "Post Status"
+msgstr "Berichtstatus"
+
+#: admin/html/form-submission-restriction.php:29
+#: admin/post-forms-list-table.php:314
+msgid "Guest Post"
+msgstr "Gastenbericht"
+
+#: admin/post-forms-list-table.php:408
+msgid "Duplicate"
+msgstr "Duplicaat"
+
+#: admin/posting.php:104
+msgid "WPUF Form"
+msgstr "WPUF Formulieren"
+
+#: admin/form-builder/views/form-builder.php:5
+msgid "Form Editor"
+msgstr "Formulier editor"
+
+#: includes/free/post-form-templates/the_events_calendar.php:171
+msgid "This page is restricted. Please Log in / Register to view this page."
+msgstr "Deze pagina is beperkt zichtbaar. Graag inloggen/registreren om de pagina te bekijken. "
+
+#: admin/html/form-settings-post.php:15
+msgid "Post saved"
+msgstr "Bericht opgeslagen"
+
+#: admin/html/form-settings-post.php:21
+msgid "Submit"
+msgstr "Verzenden"
+
+#: admin/form.php:435 admin/html/form-settings-post.php:22
+#: class/render-form.php:758 includes/class-frontend-render-form.php:183
+msgid "Save Draft"
+msgstr "Concept opslaan"
+
+#: admin/form-builder/views/form-builder.php:15
+#: admin/html/form-settings-post.php:23
+msgid "Preview"
+msgstr "Bekijken"
+
+#: admin/html/form-settings-post.php:71
+msgid "Post Format"
+msgstr "Berichtformat"
+
+#: admin/installer.php:96 templates/dashboard/list.php:16
+#: templates/dashboard/posts.php:116
+msgid "Payment"
+msgstr "Betaling"
+
+#: admin/html/form-settings-post.php:74
+msgid "- None -"
+msgstr "- Geen -"
+
+#: admin/html/form-submission-restriction.php:34
+msgid "Enable Guest Post"
+msgstr "Gastenbericht inschakelen"
+
+#: admin/html/form-submission-restriction.php:36
+msgid "Unregistered users will be able to submit posts"
+msgstr "Niet-geregistreerde gebruikers zullen in staat zijn om berichten te verzenden. "
+
+#: admin/html/form-submission-restriction.php:41
+msgid "User Details"
+msgstr "Gebruikersgegevens"
+
+#: admin/html/form-submission-restriction.php:53
+msgid "Name Label"
+msgstr "Naamlabel"
+
+#: admin/html/form-submission-restriction.php:58
+msgid "Label text for name field"
+msgstr "Tekstlabel voor naamveld"
+
+#: admin/html/form-submission-restriction.php:117
+#: admin/settings-options.php:287
+msgid "Unauthorized Message"
+msgstr "Niet geautoriseerd bericht"
+
+#: admin/settings-options.php:288
+msgid "Not logged in users will see this message"
+msgstr "Gebruikers die niet ingelogd zijn zullen dit bericht zien"
+
+#: admin/html/form-settings-post-edit.php:31
+#: admin/html/form-settings-post.php:130 includes/free/form-element.php:391
+msgid "Redirect To"
+msgstr "Doorverwijzen naar"
+
+#: admin/html/form-settings-post-edit.php:36
+#: admin/html/form-settings-post.php:135
+msgid "Newly created post"
+msgstr "Nieuw aangemaakt bericht"
+
+#: admin/html/form-settings-post-edit.php:37
+#: admin/html/form-settings-post.php:136 includes/free/form-element.php:396
+msgid "Same Page"
+msgstr "Dezelfde pagina"
+
+#: admin/html/form-settings-post-edit.php:38
+#: admin/html/form-settings-post.php:137 includes/free/form-element.php:397
+msgid "To a page"
+msgstr "Naar een pagina"
+
+#: admin/html/form-settings-post-edit.php:39
+#: admin/html/form-settings-post.php:138 includes/free/form-element.php:398
+msgid "To a custom URL"
+msgstr "Naar een aangepaste URL"
+
+#: admin/html/form-settings-post-edit.php:48
+#: admin/html/form-settings-post.php:147 includes/free/form-element.php:407
+msgid "After successfull submit, where the page will redirect to"
+msgstr "Waar de pagina naar wordt doorverwezen, na een geslaagde verzending"
+
+#: admin/html/form-settings-post.php:153
+msgid "Message to show"
+msgstr "Melding om te tonen"
+
+#: admin/html/form-settings-post.php:192
+msgid "Submit Post Button text"
+msgstr "Tekst verzending berichtknop"
+
+#: admin/html/form-settings-post.php:199
+msgid "Post Draft"
+msgstr "Concept bericht"
+
+#: admin/html/form-settings-post.php:204
+msgid "Enable Saving as draft"
+msgstr "Opslaan als concept inschakelen"
+
+#: admin/html/form-settings-post.php:206
+msgid "It will show a button to save as draft"
+msgstr "Dit toont een knop om op te slaan als concept"
+
+#: admin/html/form-settings-post-edit.php:14
+msgid "Set Post Status to"
+msgstr "Stel berichtstatus in op"
+
+#: admin/html/form-settings-post-edit.php:24
+msgid "No Change"
+msgstr "Geen verandering"
+
+#: admin/html/form-settings-post-edit.php:54
+msgid "Post Update Message"
+msgstr "Bericht update-melding"
+
+#: admin/html/form-settings-post-edit.php:83
+msgid "Subscription Title"
+msgstr "Inschrijvingstitel"
+
+#: admin/html/form-settings-post-edit.php:92
+msgid "Update Post Button text"
+msgstr "Update tekst berichtknop"
+
+#: includes/free/form-element.php:8 includes/free/form-element.php:27
+msgid "Click to add to the editor"
+msgstr "Klik om aan de editor toe te voegen"
+
+#: includes/fields/class-field-text.php:9
+#: includes/fields/class-field-text.php:126
+msgid "Text"
+msgstr "Tekst"
+
+#: admin/template-post.php:150 includes/fields/class-abstract-fields.php:432
+#: includes/fields/class-field-multidropdown.php:9
+#: includes/fields/class-field-multidropdown.php:79
+msgid "Multi Select"
+msgstr "Multiselectie"
+
+#: includes/fields/class-field-radio.php:9
+msgid "Radio"
+msgstr "Radio"
+
+#: admin/template-post.php:151 includes/fields/class-abstract-fields.php:433
+#: includes/fields/class-field-checkbox.php:9
+msgid "Checkbox"
+msgstr "Vinkbox"
+
+#: includes/fields/class-field-hidden.php:9
+msgid "Hidden Field"
+msgstr "Verborgen velden"
+
+#: includes/class-field-manager.php:206
+msgid "Others"
+msgstr "Andere"
+
+#: includes/fields/class-field-sectionbreak.php:9
+msgid "Section Break"
+msgstr "Sectie-einde"
+
+#: class/post-form-templates/post.php:91
+#: includes/free/post-form-templates/the_events_calendar.php:138
+msgid "Excerpt"
+msgstr "Korte beschrijving"
+
+#: class/post-form-templates/post.php:36
+msgid "Category"
+msgstr "Categorie"
+
+#: class/post-form-templates/post.php:77 class/post-form-templates/post.php:78
+#: includes/fields/class-field-featured-image.php:9
+#: includes/fields/class-field-featured-image.php:142
+#: includes/free/post-form-templates/the_events_calendar.php:125
+#: includes/free/post-form-templates/the_events_calendar.php:126
+#: templates/dashboard/list.php:7 templates/dashboard/posts.php:107
+msgid "Featured Image"
+msgstr "Uitgelichte afbeelding"
+
+#: includes/free/edit-profile.php:116
+msgid "Nickname"
+msgstr " Bijnaam"
+
+#: includes/free/edit-profile.php:189
+msgid "Biographical Info"
+msgstr "Biografie"
+
+#: includes/free/form-element.php:310
+msgid "Toggle All"
+msgstr "Alles inklappen"
+
+#: includes/free/form-element.php:314
+msgid "Click on a form element to add to the editor"
+msgstr "Klik op een formulierelement om toe te voegen aan de editor"
+
+#: admin/class-admin-subscription.php:435 admin/form.php:227
+#: includes/free/form-element.php:57
+msgid "Post Expiration"
+msgstr "Bericht vervaldatum"
+
+#: admin/posting.php:289
+msgid "WPUF Custom Fields"
+msgstr "WPUF extra velden. "
+
+#: admin/posting.php:341
+msgid "No custom fields found."
+msgstr "Geen extra velden gevonden. "
+
+#: admin/html/form-settings-post-edit.php:4
+#: admin/html/form-settings-post.php:16
+msgid "Post updated successfully"
+msgstr "Bericht succesvol bijgewerkt"
+
+#: admin/html/form-settings-post.php:120
+msgid "If users are not allowed to choose any category, this category will be used instead (if post type supports)"
+msgstr "Als gebruikers geen toestemming hebben om een categorie te kiezen, zal deze categorie als alternatief gebruikt worden (als berichttype ondersteund wordt)."
+
+#: admin/html/form-submission-restriction.php:46
+msgid "Require Name and Email address"
+msgstr "Naam en e-mailadres verplicht"
+
+#: admin/html/form-submission-restriction.php:48
+msgid "If requires, users will be automatically registered to the site using the name and email address"
+msgstr "Indien noodzakelijk, zullen gebruikers automatisch geregistreerd worden op de site gebruikmakend van naam en e-mailadres."
+
+#: admin/html/form-submission-restriction.php:63
+msgid "E-Mail Label"
+msgstr "E-mail-label"
+
+#: admin/html/form-submission-restriction.php:68
+msgid "Label text for email field"
+msgstr "Tekstlabel voor e-mailveld"
+
+#: admin/html/form-settings-post.php:182
+msgid "Comment Status"
+msgstr "Reactiestatus"
+
+#: admin/template.php:185 includes/fields/class-abstract-fields.php:669
+#: includes/fields/class-field-textarea.php:9
+#: includes/fields/class-field-textarea.php:125
+msgid "Textarea"
+msgstr "Tekstvak"
+
+#: class/transactions-list-table.php:15
+msgid "transaction"
+msgstr "transactie"
+
+#: wpuf.php:108
+msgid "</strong> or greater."
+msgstr "</strong> of nieuwer."
+
+#: wpuf.php:108
+msgid "The <strong>WP User Frontend</strong> plugin requires PHP version <strong>"
+msgstr "De <strong>WP User Frontend</strong> plugin vereist PHP-versie <strong>"
+
+#: wpuf.php:107
+msgid "Your installed PHP Version is: "
+msgstr "Je geïnstalleerde PHP-versie is:"
+
+#: wpuf-functions.php:3341
+msgid "None"
+msgstr "Geen"
+
+#: wpuf-functions.php:2435
+msgid "Egyptian Pound"
+msgstr "Egyptische Pond"
+
+#: wpuf-functions.php:2021
+msgid "Edit Profile"
+msgstr "Bewerk profiel"
+
+#: wpuf-functions.php:2415
+msgid "Turkish Lira"
+msgstr "Turkse Lira"
+
+#: wpuf-functions.php:2410
+msgid "Thai Baht"
+msgstr "Thaise Baht"
+
+#: wpuf-functions.php:2425
+msgid "US Dollar"
+msgstr "US Dollar"
+
+#: wpuf-functions.php:2430
+msgid "Vietnamese Dong"
+msgstr "Vietnamese Dong"
+
+#: wpuf-functions.php:2400
+msgid "Swiss Franc"
+msgstr "Zwitserse Frank"
+
+#: wpuf-functions.php:2405
+msgid "Taiwan New Dollars"
+msgstr "Taiwanese nieuwe dollars"
+
+#: wpuf.php:900
+msgid "Error: Nonce verification failed"
+msgstr "Fout: nonce verificatie mislukt"
+
+#: templates/logged-in.php:8
+msgid "Hello, %s"
+msgstr "Hallo, %s"
+
+#: admin/premium.php:10 includes/free/loader.php:104
+msgid "Pro Features"
+msgstr "Pro functies"
+
+#: class/transactions-list-table.php:16
+msgid "transactions"
+msgstr "transacties"
+
+#: includes/free/edit-user.php:90
+msgid "Are you sure to delete this user?"
+msgstr "Weet je zeker dat je deze gebruiker wilt verwijderen?"
+
+#: admin/class-admin-settings.php:118 admin/class-admin-subscription.php:204
+#: admin/subscribers.php:18
+msgid "Subscribers"
+msgstr "Abonnees"
+
+#: admin/class-admin-settings.php:115
+msgid "<span style=\"color:#f18500\">Help</span>"
+msgstr "<span style=\"color:#f18500\">Help</span>"
+
+#: admin/class-admin-settings.php:115
+msgid "Help"
+msgstr "Help"
+
+#: admin/class-admin-settings.php:113
+msgid "Premium"
+msgstr "Premium"
+
+#: admin/class-admin-settings.php:99
+msgid "Subscriptions"
+msgstr "Abonnementen"
+
+#: admin/class-admin-settings.php:454
+msgid "Number of items per page:"
+msgstr "Aantal items per pagina:"
+
+#: admin/class-tools.php:339
+msgid "Caution: This tool will delete all the plugin settings of WP User Frontend Pro"
+msgstr "Let op: deze tool zal alle plugin instellingen van WP User Frontend Pro verwijderen."
+
+#: admin/installer.php:27
+msgid "If you have not created <strong>WP User Frontend</strong> pages yet, you can do this by one click."
+msgstr "Als je nog geen <strong>WP User Frontend Pro</strong> pagina's hebt aangemaakt, kan je dit doen met een klik."
+
+#: includes/class-frontend-form-post.php:566
+msgid ""
+"You already have an account in our site. Please login to continue.\n"
+"\n"
+"Clicking 'OK' will redirect you to the login page and you will lose the form data.\n"
+"Click 'Cancel' to stay at this page."
+msgstr ""
+"Je hebt al een account op onze site. Gelieve in te loggen om verder te gaan.\n"
+"\n"
+"Klik 'Oké' om door te gaan naar de inlogpagina en je zult de formulier gegevens verliezen.\n"
+"Klik 'Annuleren' om op deze pagina te blijven."
+
+#: includes/free/edit-user.php:224
+msgid "<strong>ERROR</strong>: Please enter a username"
+msgstr "<strong>FOUT</strong>: Vul een gebruikersnaam in."
+
+#: includes/free/edit-user.php:226
+msgid "<strong>ERROR</strong>: This username is invalid because it uses illegal characters. Please enter a valid username"
+msgstr "<strong>FOUT</strong>: Deze gebruikersnaam is niet geldig omdat het illegale tekens gebruikt. Kies een andere gebruikersnaam."
+
+#: includes/free/edit-user.php:229
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one"
+msgstr "<strong>FOUT</strong>: Gebruikersnaam is al geregistreerd, kies een ander"
+
+#: includes/free/edit-user.php:234
+msgid "<strong>ERROR</strong>: Please type your e-mail address"
+msgstr "<strong>FOUT</strong>: type je e-mailadres in."
+
+#: includes/free/edit-user.php:236
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct"
+msgstr "<strong>FOUT</strong>: het e-mailadres is niet correct."
+
+#: includes/free/edit-user.php:239
+msgid "<strong>ERROR</strong>: This email is already registered, please choose another one"
+msgstr "<strong>FOUT</strong>: Dit e-mailadres is al in gebruik, gebruik een ander"
+
+#: includes/free/form-element.php:215
+msgid "New Post Notification"
+msgstr "Nieuw bericht melding"
+
+#: includes/free/form-element.php:249
+msgid "Update Post Notification"
+msgstr "Update bericht melding"
+
+#: admin/template-post.php:162 includes/fields/class-abstract-fields.php:473
+msgid "Slug"
+msgstr "Slug"
+
+#: lib/gateway/paypal.php:98
+msgid "Subscription %1$s at %2$s"
+msgstr "Abonnement %1$s om %2$s"
+
+#: class/frontend-dashboard.php:218 templates/dashboard/posts.php:34
+msgid "You are not the post author. Cheating huh!"
+msgstr "Je bent niet de bericht auteur! Niet vals spelen!"
+
+#: includes/free/edit-profile.php:168
+msgid "Website"
+msgstr "Site"
+
+#: includes/free/class-login.php:319
+msgid "Lost Password"
+msgstr "Wachtwoord vergeten"
+
+#: class/asset-loader.php:32 wpuf.php:633
+msgid "is required"
+msgstr "is vereist"
+
+#: includes/free/class-registration.php:222
+msgid "Email is required."
+msgstr "E-mail is vereist."
+
+#: includes/free/class-registration.php:216
+msgid "Last name is required."
+msgstr "Achternaam is vereist."
+
+#: includes/free/class-registration.php:210
+msgid "First name is required."
+msgstr "Voornaam is vereist."
+
+#: includes/free/class-login.php:442 includes/free/class-registration.php:234
+msgid "Password is required."
+msgstr "Wachtwoord is vereist."
+
+#: includes/free/class-login.php:436 includes/free/class-registration.php:228
+msgid "Username is required."
+msgstr "Gebruikersnaam is vereist."
+
+#: includes/free/class-login.php:391
+msgid "You are now logged out."
+msgstr "Je bent nu uitgelogd."
+
+#: includes/fields/class-abstract-fields.php:351
+msgid "Logged in users only"
+msgstr "Alleen ingelogde gebruikers"
+
+#: class/frontend-account.php:357
+msgid "Email is a required field."
+msgstr "E-mail is een vereist veld."
+
+#: class/frontend-account.php:349
+msgid "First Name is a required field."
+msgstr "Voornaam is een vereist veld."
+
+#: class/frontend-account.php:353
+msgid "Last Name is a required field."
+msgstr "Achternaam is een vereist veld."
+
+#: includes/free/class-registration.php:240
+msgid "Confirm Password is required."
+msgstr "Je wachtwoord bevestigen is vereist."
+
+#: includes/class-billing-address.php:35
+msgid "Some Required Fields are not filled!"
+msgstr "Sommige vereiste velden zijn niet ingevuld!"
+
+#: includes/free/edit-profile.php:163
+msgid "E-mail"
+msgstr "E-mail"
+
+#: includes/class-login-widget.php:232 templates/lost-pass-form.php:14
+msgid "Username or E-mail:"
+msgstr "Gebruikersnaam of e-mail:"
+
+#: includes/class-login-widget.php:281 includes/free/class-login.php:311
+#: templates/login-form.php:75
+msgid "Log In"
+msgstr "Inloggen"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wp-user-frontend/"
+msgstr "https://wordpress.org/plugins/wp-user-frontend/"
+
+#. Description of the plugin
+msgid "Create, edit, delete, manages your post, pages or custom post types from frontend. Create registration forms, frontend profile and more..."
+msgstr "Creëer, bewerk, verwijder, beheer je post(s), pagina's en custom post types van de frontend. Creëer registratie formulieren, profielen en meer..."
+
+#: includes/class-login-widget.php:280 templates/login-form.php:71
+msgid "Remember Me"
+msgstr "Onthouden"
+
+#: includes/class-login-widget.php:282 templates/reset-pass-form.php:26
+msgid "Reset Password"
+msgstr "Reset wachtwoord"
+
+#: admin/form-builder/assets/js/components/field-option-data/template.php:37
+#: admin/template.php:234 admin/template.php:286
+#: assets/js-templates/form-components.php:157
+msgid "Value"
+msgstr "Waarde"
+
+#: class/transactions-list-table.php:44
+#: includes/class-list-table-subscribers.php:44 templates/dashboard/list.php:11
+#: templates/dashboard/posts.php:111
+msgid "Status"
+msgstr "Status"
+
+#: includes/free/admin/shortcode-builder.php:9 includes/free/loader.php:92
+msgid "Registration Form"
+msgstr "Registratieformulier"
+
+#: admin/class-admin-subscription.php:821
+#: admin/form-builder/class-wpuf-admin-form-builder.php:284
+#: class/payment.php:225 class/subscription.php:836
+#: includes/class-list-table-subscribers.php:138 lib/appsero/Insights.php:764
+#: templates/dashboard/subscription.php:67
+msgid "Cancel"
+msgstr "Be&euml;indig"
+
+#: admin/class-tools.php:43 admin/class-tools.php:106
+#: admin/post-forms-list-table.php:43 class/transactions-list-table.php:90
+#: includes/class-list-table-subscribers.php:136 wpuf-functions.php:3340
+msgid "All"
+msgstr "Alles"
+
+#: includes/class-login-widget.php:216 includes/class-login-widget.php:252
+#: includes/free/class-login.php:315 includes/free/class-registration.php:122
+#: includes/free/form-element.php:355
+msgid "Register"
+msgstr "Registreren"
+
+#: includes/class-user-subscription.php:380
+msgid "Change"
+msgstr "Verander"
+
+#: includes/free/loader.php:84 includes/free/loader.php:145
+msgid "Coupons"
+msgstr "Kortingsbonnen"
+
+#: includes/class-user-subscription.php:323
+#: templates/dashboard/subscription.php:7
+msgid "Package & billing details: "
+msgstr "Pakket en betalingsgegevens"
+
+#: admin/form-builder/assets/js/components/form-post_content/template.php:4
+#: assets/js-templates/form-components.php:650 class/render-form.php:1052
+#: includes/fields/class-field-post-content.php:49
+msgid "Insert Photo"
+msgstr "Foto invoegen"
+
+#: admin/form-builder/assets/js/components/form-featured_image/template.php:6
+#: admin/form-builder/assets/js/components/form-image_upload/template.php:6
+#: assets/js-templates/form-components.php:542
+#: assets/js-templates/form-components.php:613 class/render-form.php:1655
+#: includes/fields/class-field-featured-image.php:122
+#: includes/fields/class-field-image.php:116
+#: includes/fields/class-field-image.php:137
+msgid "Select Image"
+msgstr "Selecteer afbeelding"
+
+#: admin/form-builder/assets/js/components/field-option-data/template.php:10
+#: admin/template.php:231 assets/js-templates/form-components.php:130
+msgid "Show values"
+msgstr "Toon waardes"
+
+#: admin/form-builder/assets/js/components/field-option-data/template.php:32
+#: admin/template.php:234 admin/template.php:286
+#: assets/js-templates/form-components.php:152
+msgid "Label"
+msgstr "Label"
+
+#: includes/class-list-table-subscribers.php:41
+msgid "User ID"
+msgstr "Gebruiker ID"
+
+#: class/transactions-list-table.php:50 includes/class-privacy.php:346
+#: includes/class-privacy.php:466
+msgid "Pack ID"
+msgstr "Pakket ID"
+
+#: includes/class-list-table-subscribers.php:46 includes/class-privacy.php:322
+msgid "Transaction ID"
+msgstr "Transactie ID"
+
+#: admin/class-admin-subscription.php:225
+#: admin/class-admin-subscription.php:618 class/frontend-account.php:263
+#: class/subscription.php:938 includes/class-user-subscription.php:309
+#: templates/subscriptions/pack-details.php:24
+msgid "Free"
+msgstr "Gratis"
+
+#: includes/class-user-subscription.php:334
+#: templates/dashboard/subscription.php:20
+msgid "Remaining post: "
+msgstr "Blijvende berichten"
+
+#. Plugin Name of the plugin
+#: admin/class-admin-settings.php:88 includes/class-customizer.php:47
+msgid "WP User Frontend"
+msgstr "WP User Frontend"
+
+#: admin/class-admin-subscription.php:205 includes/class-privacy.php:478
+#: includes/free/subscription.php:8
+msgid "Recurring"
+msgstr "Terugkerend"
+
+#: includes/class-user-subscription.php:319
+#: templates/dashboard/subscription.php:3
+msgid "Subscription Details"
+msgstr "Inschrijvingsgegevens"
+
+#: includes/class-user-subscription.php:321
+#: templates/dashboard/subscription.php:5
+msgid "Subcription Name: "
+msgstr "Inschrijvingsnaam"
+
+#: admin/class-admin-subscription.php:700
+#: includes/class-user-subscription.php:361
+#: templates/dashboard/subscription.php:49
+msgid "Expire date:"
+msgstr "Verloopdatum"
+
+#: admin/template.php:60 includes/class-customizer.php:106
+#: includes/fields/class-abstract-fields.php:294
+msgid "Required"
+msgstr "Verplicht"
+
+#: admin/class-admin-settings.php:116 admin/class-admin-settings.php:157
+#: admin/form-builder/views/form-builder.php:9 includes/setup-wizard.php:125
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/class-login-widget.php:278 includes/free/edit-profile.php:102
+#: includes/free/edit-user.php:97 includes/free/edit-user.php:157
+#: templates/registration-form.php:54
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: includes/class-login-widget.php:279 templates/login-form.php:27
+#: templates/registration-form.php:61
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: admin/form.php:106 includes/free/loader.php:78
+msgid "Registration Forms"
+msgstr "Registratieformulieren"
+
+#: admin/html/form-submission-restriction.php:12 admin/html/support.php:223
+#: class/transactions-list-table.php:53 includes/class-privacy.php:358
+#: includes/free/edit-user.php:168 templates/registration-form.php:47
+msgid "Email"
+msgstr "E-mail"
+
+#: admin/installer.php:89 includes/class-login-widget.php:248
+#: includes/free/admin/shortcode-button.php:91
+msgid "Login"
+msgstr "Login"
+
+#: admin/class-tools.php:331 admin/installer.php:30
+#: includes/setup-wizard.php:308
+msgid "Install WPUF Pages"
+msgstr "Installeer WPUF pagina's"
+
+#: admin/settings-options.php:39 includes/class-privacy.php:69
+msgid "Payments"
+msgstr "Betalingen"
+
+#: class/post-form-templates/post.php:20 includes/class-privacy.php:417
+#: includes/fields/class-field-post-title.php:6
+msgid "Post Title"
+msgstr "Berichttitel"
+
+#: admin/html/support.php:218 includes/class-privacy.php:350
+#: includes/free/edit-profile.php:106
+msgid "First Name"
+msgstr "Voornaam"
+
+#: includes/class-privacy.php:354 includes/free/edit-profile.php:111
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: admin/form-builder/assets/js/components/field-visibility/template.php:50
+#: assets/js-templates/form-components.php:410
+msgid "No subscription plan found."
+msgstr "Geen abonnement gevonden."
+
+#: includes/class-form-preview.php:82
+msgid "You must be logged in to preview this form."
+msgstr "Je moet zijn aangemeld als je een voorbeeld van dit formulier wilt weergeven."

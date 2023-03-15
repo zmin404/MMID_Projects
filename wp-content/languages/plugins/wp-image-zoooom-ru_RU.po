@@ -1,0 +1,630 @@
+# Translation of Plugins - WP Image Zoom - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - WP Image Zoom - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-03 07:34:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WP Image Zoom - Stable (latest release)\n"
+
+#: includes/admin-side.php:335
+msgid "The Flatsome theme replaces the default WooCommerce gallery with a Flickity carousel, which leads to the effects that it zooms only on the first image. Please check <a href=\"%1$s\" target=\"_blank\">this article</a> for a solution to the issue."
+msgstr "Тема Flatsome заменяет стандартную галерею WooCommerce на карусель Flickity, что приводит к эффекту, когда она увеличивается только на первом изображении. Пожалуйста, ознакомьтесь с <a href=\"%1$s\" target=\"_blank\">этой статьей</a> для решения проблемы."
+
+#: includes/admin-side.php:311
+msgid "The <b>Bridge</b> theme replaces the default WooCommerce product gallery with its own. The <b>WP Image Zoom</b> plugin will not work with this replaced gallery. But if you set the \"Enable Default WooCommerce Product Gallery Features\" option to \"Yes\" on the <a href=\"%1$s\">%2$s</a> page, then the zoom will work as expected on the product gallery."
+msgstr "Тема <b>Bridge</b> заменяет галерею товаров WooCommerce по умолчанию своей собственной. Плагин <b>WP Image Zoom</b> не будет работать с этой замененной галереей. Но если вы установите опцию \"Enable Default WooCommerce Product Gallery Features\" в \"Yes\" на странице <a href=\"%1$s\">%2$s</a>, то зум будет работать, как и ожидалось, в галерее товаров."
+
+#: includes/admin-side.php:284
+msgid "Under certain situations the <a href=\"%1$s\">Lazy Loading</a> functionality from Jetpack can interfere with the image zooming. If you're expriencing issues with the zoom, please try deactivating this option. Since WordPress 5.5 the lazy-loading technique is used by default on all the website's images, also when the Lazy Loading option from Jetpack is disabled."
+msgstr "В некоторых ситуациях функция <a href=\"%1$s\">отложенная загрузка</a> из Jetpack может мешать масштабированию изображений. Если вы испытываете проблемы с масштабированием, попробуйте отключить эту опцию. Начиная с версии WordPress 5.5 техника отложенной загрузки используется по умолчанию для всех изображений сайта, в том числе и тогда, когда опция отложенной загрузки из Jetpack отключена."
+
+#: includes/admin-side.php:366
+msgid "The <a href=\"%1$s\" target=\"_blank\">Product Gallery Slider for WooCommerce</a> plugin replaces the default WooCommerce gallery with a custom implementation, which, unfortunately, is not compatible with the <b>WP Image Zoom</b> plugin. You can try the image zoom plugin with the default WooCommerce gallery by deactivating the <b>Product Gallery Slider for WooCommerce</b> plugin."
+msgstr "Плагин <a href=\"%1$s\" target=\"_blank\">Product Gallery Slider для WooCommerce</a> заменяет стандартную галерею WooCommerce, которая, несовместима с <b>плагином WP Image Zoom</b>. Вы можете попробовать плагин увеличения изображения с галереей WooCommerce по умолчанию, отключив плагин <b>Product Gallery Slider for WooCommerce</b>."
+
+#: includes/admin-side.php:350
+msgid "The <a href=\"%1$s\" target=\"_blank\">Additional Variation Images Gallery for WooCommerce</a> plugin replaces the default WooCommerce gallery with a <a href=\"%2$s\" target=\"_blank\">Slick carousel</a> gallery. Unfortunately the <b>WP Image Zoom</b> plugin will not work with the <b>Slick carousel</b> gallery. You can try the zoom plugin with the default WooCommerce gallery by deactivating the <b>Additional Variation Images Gallery for WooCommerce</b> plugin. Alternatively, you can upgrade to the <a href=\"%3$s\">WP Image Zoom Pro</a> version, which is compatible with the <b>Slick carousel</b> gallery, therefore compatible with the <b>Additional Variation Images Gallery for WooCommerce</b> plugin."
+msgstr "Плагин <a href=\"%1$s\" target=\"_blank\">Additional Variation Images Gallery для WooCommerce</a> заменяет стандартную галерею WooCommerce на галерею <a href=\"%2$s\" target=\"_blank\">Slick carousel</a>. Плагин <b>WP Image Zoom</b> не будет работать с галереей <b>Slick carousel</b>. Вы можете попробовать плагин увеличения с галереей WooCommerce по умолчанию, деактивировав плагин <b>Additional Variation Images Gallery для WooCommerce</b>. Вы можете перейти на версию <a href=\"%3$s\">WP Image Zoom Pro</a>, которая совместима с галереей <b>Slick carousel</b>, следовательно, совместима с плагином <b>Additional Variation Images Gallery для WooCommerce</b>."
+
+#: includes/admin-side.php:359
+msgid "The <a href=\"%1$s\" target=\"_blank\">WooCommerce Product Video Gallery</a> plugin replaces the default WooCommerce gallery with a <a href=\"%2$s\" target=\"_blank\">Slick carousel</a> gallery. Unfortunately the <b>WP Image Zoom</b> plugin will not work with the <b>Slick carousel</b> gallery. You can try the zoom plugin with the default WooCommerce gallery by deactivating the <b>WooCommerce Product Video Gallery</b> plugin. Alternatively, you can upgrade to the <a href=\"%3$s\">WP Image Zoom Pro</a> version, which is compatible with the <b>Slick carousel</b> gallery, therefore compatible with the <b>WooCommerce Product Video Gallery</b> plugin."
+msgstr "Плагин <a href=\"%1$s\" target=\"_blank\">WooCommerce Product Video Gallery</a> заменяет стандартную галерею WooCommerce на галерею <a href=\"%2$s\" target=\"_blank\">Slick carousel</a>. Плагин <b>WP Image Zoom</b> не будет работать с галереей <b>Slick carousel</b>. Вы можете попробовать плагин увеличения с галереей WooCommerce по умолчанию, отключив плагин <b>WooCommerce Product Video Gallery</b>. Кроме того, вы можете перейти на версию <a href=\"%3$s\">WP Image Zoom Pro</a>, которая совместима с галереей <b>Slick carousel</b>, следовательно, совместима с плагином <b>WooCommerce Product Video Gallery</b>."
+
+#: includes/admin-side.php:341
+msgid "The <b>Smart Image Resize for WooCommerce</b> plugin modifies the WooCommerce product images, which will result in a distorted zoom lens on those images. Unfortunately, if you plan to use the <b>WP Image Zoom</b> plugin on the WooCommerce product images, then, you'll need to deactivate the <b>Smart Image Resize</b> plugin."
+msgstr "Плагин <b>Smart Image Resize для WooCommerce</b> изменяет изображения продуктов WooCommerce, что приводит к искажению объектива на этих изображениях. К сожалению, если вы планируете использовать плагин <b>WP Image Zoom PRO</b> для изображений продуктов WooCommerce, вам необходимо деактивировать плагин <b>Smart Image Resize</b>."
+
+#: includes/admin-side.php:236 includes/class-iz-compatibilities.php:139
+msgid "Zoom applied to the image. Check on the frontend"
+msgstr "К изображению применен масштаб. Проверьте на сайте"
+
+#. translators: 1: field label 2: value
+#: includes/frm/class-form-fields.php:300
+msgid "The %1$s field accepts only a number. It was set to %2$s"
+msgstr "Поле %1$s только для чисел. Установлено значение %2$s"
+
+#. translators: 1: field label 2: value
+#: includes/frm/class-form-fields.php:287
+msgid "The %1$s field accepts only an integer value. It was set to %2$s"
+msgstr "Поле %1$s только для целых чисел. Установлено значение %2$s"
+
+#: includes/settings.php:498
+msgid "Lens margins extend over image's margins"
+msgstr "Поля линзы выходят за поля изображения"
+
+#: includes/settings.php:486
+msgid "Image Title Font Size"
+msgstr "Размер шрифта заголовка"
+
+#: includes/settings.php:479
+msgid "Image Title Background Color"
+msgstr "Цвет заднего фона заголовка"
+
+#: includes/settings.php:472
+msgid "Image Title Text Color"
+msgstr "Цвет текста заголовка"
+
+#: includes/settings.php:464
+msgid "Bottom"
+msgstr "Низ"
+
+#: includes/settings.php:463
+msgid "Top"
+msgstr "Верх"
+
+#: includes/settings.php:462
+msgid "Do no show"
+msgstr "Не показывать"
+
+#: includes/settings.php:460
+msgid "Image Title Position on the Zoom Window"
+msgstr "Положение заголовка в окне увеличения"
+
+#: includes/settings.php:448
+msgid "In order to apply to more galleries, enter the respective ids separated by comma"
+msgstr "Для применения к большему количеству галерей, введите соответствующие ID через запятую"
+
+#: includes/settings.php:445
+msgid "<a href=\"https://wordpress.org/plugins/gallery-images/\" target=\"_blank\">Huge IT Gallery</a> id"
+msgstr "<a href=\"https://wordpress.org/plugins/gallery-images/\" target=\"_blank\">Huge IT Gallery</a> ID"
+
+#: includes/settings.php:432
+msgid "If the images are in a Swiper slider, then type in here the class of the div containing the Swiper slider"
+msgstr "Если изображения находятся в Swiper slider, введите класс div, содержащий Swiper slider"
+
+#: includes/settings.php:429
+msgid "<a href=\"http://idangero.us/swiper/\" target=\"_blank\">Swiper slider</a> container class"
+msgstr "Класс контейнера <a href=\"http://idangero.us/swiper/\" target=\"_blank\">Swiper slider</a>"
+
+#: includes/settings.php:413
+msgid "<a href=\"https://owlcarousel2.github.io/OwlCarousel2/\" target=\"_blank\">Owl Carousel</a> container class"
+msgstr "Класс контейнера <a href=\"https://owlcarousel2.github.io/OwlCarousel2/\" target=\"_blank\">Owl Carousel</a> "
+
+#: includes/settings.php:408
+msgid "If the images are in a Woo FlexSlider gallery, then type in here the class of the div containing the FlexSlider gallery"
+msgstr "Если изображения находятся в галерее Woo FlexSlider, введите класс div, содержащий галерею FlexSlider"
+
+#: includes/settings.php:279
+msgid "If the Mousewheel Zoom option is enabled, then the user cannot scroll the page. This option will adjust the Zoom Window's position vertically so it can always be fully visible."
+msgstr "Если включена опция увеличения колесиком мыши, пользователь не может прокручивать страницу. Эта опция регулирует положение окна увеличения по вертикали, чтобы оно всегда было полностью видимым."
+
+#: includes/settings.php:277
+msgid "Zoom Window vertically responsive"
+msgstr "Окно увеличения по вертикали"
+
+#: includes/settings.php:271
+msgid "When using the mousewheel, the zoomed level of the image will change"
+msgstr "Увеличение изображения колесиком мыши"
+
+#: includes/settings.php:210 includes/settings.php:298
+#: includes/settings.php:307 includes/settings.php:319
+msgid "Feature available only in the PRO Version"
+msgstr "Функция доступна только в PRO версии"
+
+#: includes/settings.php:188
+msgid "The zoom type will authomatically switch to No Lens zoom once the browser's width becomes less than the threshold. Works only on the frontend, not on this demo."
+msgstr "Тип увеличения переключится автоматически на увеличение без объектива, если ширина браузера станет меньше порогового значения. Работает только в интерфейсе, не в этой демонстрации."
+
+#: includes/settings.php:180
+msgid "The Zoom Window Width will adapt to the browser's size. Works only on the frontend, not on this demo."
+msgstr "Ширина окна увеличения адаптируется к размеру браузера. Работает только в интерфейсе, не в этой демонстрации."
+
+#: includes/settings.php:149
+msgid "Accepted value between 0 and 1"
+msgstr "Допустимое значение от 0 до 1"
+
+#: includes/settings.php:91 includes/settings.php:99
+msgid "Only for Zoom Window. Only when Tint is not used"
+msgstr "Только для окна увеличения. Когда оттенок не используется"
+
+#: includes/settings.php:68
+msgid "By default the zoom level is calculated automatically from the full size of the uploaded image"
+msgstr "По умолчанию уровень увеличения рассчитывается автоматически из полного размера загруженного изображения"
+
+#: includes/settings.php:51
+msgid "mouse click"
+msgstr "Нажатие кнопки мыши"
+
+#: includes/settings.php:50
+msgid "mouse hover"
+msgstr "Наведение мыши"
+
+#. translators: 1: field label 2: value
+#. translators: 1: field label 2: value
+#: includes/frm/class-form-fields.php:260
+#: includes/frm/class-form-fields.php:274
+msgid "Unrecognized %1$s. The value was reset to %2$s"
+msgstr "Неизвестное %1$s. Значение сброшено на %2$s"
+
+#: includes/admin-side.php:328
+msgid "<b>The zoom will work</b> on the WooCommerce products images only when having the <b>\"Avada's WooCommerce Product Gallery Slider\"</b> option <b>turned off</b> on the <a href=\"%1$s\">%2$s</a> page"
+msgstr "<b>Увеличение будет работать</b> для изображений продуктов WooCommerce, если параметр <b>\"Avada's WooCommerce Product Gallery Slider\"</b> <b>отключен</b> на <a href = \""
+
+#: includes/settings.php:453
+msgid "Enable inside a Lightbox. <a href=\"#TB_inline?width=600&height=400&inlineId=supported-lightboxes\" class=\"thickbox\">See supported lightboxes</a>"
+msgstr "Включить лайтбокс. <a href=\"#TB_inline?width=600&height=400&inlineId=supported-lightboxes\" class=\"thickbox\"> См. поддерживаемые лайтбоксы</a>"
+
+#: includes/settings.php:440
+msgid "If the images are in a Slick carousel gallery, then type in here the class of the div containing the Slick carousel gallery"
+msgstr "Если изображения находятся в галерее Slick carousel, введите класс div, содержащий галерею Slick carousel"
+
+#: includes/settings.php:437
+msgid "<a href=\"https://kenwheeler.github.io/slick/\" target=\"_blank\">Slick carousel</a> container class"
+msgstr "<a href=\"https://kenwheeler.github.io/slick/\" target=\"_blank\">Slick carousel</a> класс контейнера"
+
+#: image-zoooom.php:53 image-zoooom.php:60
+msgid "An error has occurred. Please reload the page and try again."
+msgstr "Произошла ошибка. Обновите страницу и попробуйте снова."
+
+#: includes/settings.php:424
+msgid "If the images are in a Flickity Carousel gallery, then type in here the class of the div containing the Flickity Carousel gallery"
+msgstr "Если изображения находятся в галерее Flickity Carousel, введите класс div, содержащий галерею Flickity Carousel"
+
+#: includes/settings.php:421
+msgid "<a href=\"https://flickity.metafizzy.co/\" target=\"_blank\">Flickity Carousel</a> container class"
+msgstr "Класс контейнера <a href=\"https://flickity.metafizzy.co/\" target=\"_blank\">Flickity Carousel</a>"
+
+#: includes/settings.php:416
+msgid "If the images are in a Owl Carousel gallery, then type in here the class of the div containing the Owl Carousel gallery"
+msgstr "Если изображения находятся в галерее Owl Carousel, введите класс div, содержащий галерею Owl Carousel"
+
+#: includes/settings.php:400
+msgid "CSS style selector(s) for identifying the image(s) on which to apply the zoom."
+msgstr "Селектор(ы) стилей CSS для изображений, к которым нужно применить масштабирование"
+
+#: includes/settings.php:397
+msgid "Apply zoom on this particular image(s)"
+msgstr "Применить увеличение к этому изображению(ям)"
+
+#: includes/admin-side.php:403
+msgid "You are using the zoom on WooCommerce shop pages in combination with a plugin that loads more products with AJAX (a product filter plugin or a \"load more\" products plugin). You'll notice that the zoom isn't applied after new products are loaded with AJAX. Please read <a href=\"%1$s\" target=\"_blank\">this article for a solution</a>."
+msgstr "Вы используете масштабирование на страницах WooCommerce в сочетании с плагином, который загружает больше продуктов с помощью AJAX (плагин фильтра продуктов или плагин «загрузить больше» продуктов). Масштабирование не применяется после загрузки новых продуктов с помощью AJAX. Прочтите <a href=\"%1$s\" target=\"_blank\"> эту статью, чтобы найти решение</a>."
+
+#: includes/admin-side.php:320
+msgid "WP Image Zoom plugin is <b>not compatible with the <a href=\"%1$s\">WooSwipe WooCommerce Gallery</a> plugin</b>. You can try the zoom plugin with the default WooCommerce gallery by deactivating the WooSwipe plugin. Alternatively, you can upgrade to the WP Image Zoom Pro version, where the issue with the WooSwipe plugin is fixed."
+msgstr "Плагин WP Image Zoom <b>несовместим с плагином <a href=\"%1$s\"> WooSwipe WooCommerce Gallery</a></b>. Используйте плагин увеличения с галереей WooCommerce по умолчанию, отключив плагин WooSwipe. Вы можете перейти на версию WP Image Zoom Pro, где проблема с плагином WooSwipe исправлена."
+
+#: includes/settings.php:384
+msgid "Some themes implement a Lightbox that opens on click on the image. Enabling this checkbox will remove the Lightbox"
+msgstr "Некоторые темы используют лайтбокс, который открывается при нажатии на изображение. При установке этого флажка лайтбокс будет скрыт"
+
+#: includes/settings.php:376
+msgid "Some themes implement a Lightbox for WooCommerce galleris that opens on click. Enabling this checkbox will remove the Lightbox on thumbnail images and leave it only on the main image"
+msgstr "Некоторые темы используют лайтбокс для галереи WooCommerce, который открывается при нажатии. Установка этого флажка скроет лайтбокс на миниатюрах изображений и оставит его только на основном изображении"
+
+#: includes/settings.php:356
+msgid "Tablets are also considered mobile devices"
+msgstr "Планшеты также относятся к мобильным устройствам"
+
+#: includes/admin-side.php:305
+msgid "The WP Image Zoom plugin <b>will not work</b> on the WooCommerce products gallery with the Shopkeeper theme. The Shopkeeper theme changes entirely the default WooCommerce gallery with a custom made gallery not supported by the free version of the WP Image Zoom plugin. Please check the <a href=\"%1$s\" target=\"_blank\">PRO version</a> of the plugin for compatibility with the Shopkeeper's gallery."
+msgstr "Плагин WP Image Zoom <b>не будет работать</b> в галерее продуктов WooCommerce с темой Shopkeeper. Тема Shopkeeper полностью изменяет стандартную галерею WooCommerce на настраиваемую галерею, не поддерживаемую бесплатной версией плагина WP Image Zoom. Пожалуйста, проверьте <a href=\"%1$s\" target=\"_blank\">PRO-версию</a> плагина на совместимость с галереей Shopkeeper."
+
+#: includes/settings.php:332
+msgid "Bottom Right"
+msgstr "Низ Справа"
+
+#: includes/settings.php:331
+msgid "Bottom Center"
+msgstr "Низ Центр"
+
+#: includes/settings.php:330
+msgid "Bottom Left"
+msgstr "Низ Слева"
+
+#: includes/settings.php:329
+msgid "Top Right"
+msgstr "Сверху справа"
+
+#: includes/settings.php:328
+msgid "Top Center"
+msgstr "Сверху по центру"
+
+#: includes/settings.php:327
+msgid "Top Left"
+msgstr "Сверху слева"
+
+#: includes/settings.php:29
+msgid "Zoom"
+msgstr "Увеличить"
+
+#. Author URI of the plugin
+msgid "https://www.silkypress.com"
+msgstr "https://www.silkypress.com"
+
+#. Author of the plugin
+msgid "SilkyPress"
+msgstr "SilkyPress"
+
+#. Description of the plugin
+msgid "Add zoom effect over the an image, whether it is an image in a post/page or the featured image of a product in a WooCommerce shop"
+msgstr "Добавьте эффект увеличения к изображению в записи/странице или  изображению продукта в магазине WooCommerce"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wp-image-zoooom/"
+msgstr "https://wordpress.org/plugins/wp-image-zoooom/"
+
+#: includes/right_columns.php:72
+msgid "Rate it on WordPress.org"
+msgstr "Оценить на WordPress.org"
+
+#: includes/right_columns.php:71
+msgid "Share your opinion with the world on the WordPress.org Plugin Repository."
+msgstr "Поделитесь своим мнением со всем миром в хранилище плагинов WordPress.org."
+
+#: includes/right_columns.php:68
+msgid "Like this Plugin?"
+msgstr "Нравится плагин?"
+
+#: includes/right_columns.php:60
+msgid "Upgrade to PRO"
+msgstr "Обновиться до PRO-версии"
+
+#: includes/right_columns.php:47
+msgid "WP Image Zoom Pro"
+msgstr "WP Image Zoom Pro"
+
+#: includes/admin-side.php:154
+msgid "Only available in <a href=\"%1$s\" target=\"_blank\">PRO version</a>"
+msgstr "Доступно в <a href=\"%1$s\" target=\"_blank\">PRO версии</a>"
+
+#: includes/admin-side.php:298
+msgid "The WP Image Zoom plugin <b>will not work</b> on the WooCommerce products gallery with the Avada theme. The Avada theme changes entirely the default WooCommerce gallery with the <a href=\"%1$s\" target=\"_blank\">Flexslider gallery</a> and the zoom plugin does not support the Flexslider gallery. Please check the <a href=\"%2$s\" target=\"_blank\">PRO version</a> of the plugin for compatibility with the Flexslider gallery."
+msgstr "Плагин WP Image Zoom <b>не будет работать</b> в галерее продуктов WooCommerce с темой Avada. Тема Avada полностью заменяет стандартную галерею WooCommerce на <a href=\"%1$s\" target=\"_blank\">галерею Flexslider</a>, а плагин увеличения не поддерживает галерею Flexslider. Проверьте <a href=\"%2$s\" target=\"_blank\">PRO версию</a> плагина на совместимость с галереей Flexslider."
+
+#: includes/admin-side.php:290
+msgid "<b>If the zoom does not show up</b> on your website, it could be because you need to add the \"image_zoooom-init\" and the \"image_zoooom\" to the \"Scripts to NOT minify\" option in the BWP Minify settings, as shown in <a href=\"%1$s\" target=\"_blank\">this screenshot</a>."
+msgstr "<b> Если масштаб не отображается </b> на вашем веб-сайте, это может быть связано с тем, что вам нужно добавить «image_zoooom-init» и «image_zoooom» в параметр «Скрипты, которые НЕ минимизируют» в BWP Minify настройки, как показано на <a href=\"%1$s\" target=\"_blank\"> этом снимке экрана </a>."
+
+#: includes/image-zoom-notices.php:177
+msgid "Dismiss this notice"
+msgstr "Игнорировать уведомление"
+
+#. translators: 1: field label 2: minimum value 3: maximum value 4: value
+#: includes/frm/class-form-fields.php:313
+msgid "%1$s accepts values between %2$s and %3$s. Your value was reset to %4$s"
+msgstr "%1$s допускает значения от %2$s до %3$s. Значение сброшено на %4$s"
+
+#: includes/admin-side.php:148
+msgid "Your settings have been saved."
+msgstr "Ваши настройки были сохранены."
+
+#: includes/settings.php:325
+msgid "Text Align"
+msgstr "Положение текста"
+
+#: includes/settings.php:317
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: includes/settings.php:304
+msgid "Text Size"
+msgstr "Размер текста"
+
+#: includes/settings.php:296
+msgid "Text on the image"
+msgstr "Текст на изображении"
+
+#: includes/settings.php:269
+msgid "Mousewheel Zoom"
+msgstr "Увеличение колесиком мыши"
+
+#: includes/settings.php:207
+msgid "Left Center"
+msgstr "Слева по центру"
+
+#: includes/settings.php:206
+msgid "Left Bottom"
+msgstr "Слева внизу"
+
+#: includes/settings.php:205
+msgid "Left Top"
+msgstr "Слева вверху"
+
+#: includes/settings.php:204
+msgid "Right Center"
+msgstr "Справа по центру"
+
+#: includes/settings.php:203
+msgid "Right Bottom"
+msgstr "Справа внизу"
+
+#: includes/settings.php:202
+msgid "Right Top"
+msgstr "Справа вверху"
+
+#: includes/settings.php:200
+msgid "Positioning"
+msgstr "Позиционирование"
+
+#: includes/settings.php:187
+msgid "Responsive Threshold"
+msgstr "Порог адаптивности"
+
+#: includes/settings.php:179
+msgid "Responsive"
+msgstr "Адаптивный"
+
+#: includes/settings.php:95
+msgid "Show as Grid"
+msgstr "Показать сеткой"
+
+#: includes/settings.php:87
+msgid "Lens Color"
+msgstr "Цвет линзы"
+
+#: includes/settings.php:65
+msgid "3 times"
+msgstr "3 раза"
+
+#: includes/settings.php:64
+msgid "2,5 times"
+msgstr "2,5 раза"
+
+#: includes/settings.php:63
+msgid "2 times"
+msgstr "2 раза"
+
+#: includes/settings.php:62
+msgid "1,5 times"
+msgstr "1,5 раза"
+
+#: includes/settings.php:59
+msgid "Zoom Level"
+msgstr "Уровень масштабирования"
+
+#: includes/settings.php:48
+msgid "Enable the zoom on ..."
+msgstr "Включить увеличение ..."
+
+#: includes/settings.php:405
+msgid "FlexSlider container class"
+msgstr "Класс контейнера FlexSlider "
+
+#: includes/settings.php:390
+msgid "Enable on attachments pages"
+msgstr "Включить на страницах вложений"
+
+#: includes/settings.php:360
+msgid "Enable on WooCommerce variation products"
+msgstr "Включить в вариативных продуктах WooCommerce"
+
+#: includes/settings.php:381
+msgid "Remove the Lightbox"
+msgstr "Удалить лайтбокс"
+
+#: includes/settings.php:373
+msgid "Remove the Lightbox on thumbnail images"
+msgstr "Удалить лайтбокс на миниатюрах изображений"
+
+#: includes/settings.php:367
+msgid "Enable the zoom on WooCommerce category pages"
+msgstr "Включить увеличение на страницах категорий WooCommerce"
+
+#: includes/settings.php:353
+msgid "Enable the zoom on mobile devices"
+msgstr "Включить увеличение на мобильных устройствах"
+
+#: includes/settings.php:349
+msgid "On a WooCommerce gallery, when clicking on a thumbnail, not only the main image will be replaced with the thumbnail's image, but also the thumbnail will be replaced with the main image"
+msgstr "В галерее WooCommerce при нажатии на миниатюру не только основное изображение будет заменено изображением миниатюры, но также миниатюра будет заменена основным изображением"
+
+#: includes/settings.php:346
+msgid "Exchange the thumbnail with main image on WooCommerce products"
+msgstr "Заменить миниатюру на основное изображение в продуктах WooCommerce"
+
+#: includes/settings.php:340
+msgid "Enable the zoom on WooCommerce products"
+msgstr "Включить увеличение в продуктах WooCommerce"
+
+#: includes/settings.php:287
+msgid "The amount of time it takes for the Zoom Window to slowly appear or disappear"
+msgstr "Время появления (исчезания) окна масштабирования"
+
+#: includes/settings.php:258
+msgid "Rounded Corners"
+msgstr "Закругленные углы"
+
+#: includes/settings.php:244
+msgid "Use 0px to remove the shadow"
+msgstr "Установите 0px чтобы убрать тень"
+
+#: includes/settings.php:240
+msgid "Shadow Thickness"
+msgstr "Толщина тени"
+
+#: includes/settings.php:218
+msgid "Distance from the Main Image"
+msgstr "Расстояние от основного изображения"
+
+#: includes/settings.php:168
+msgid "Zoom Window Height"
+msgstr "Высота окна увеличения"
+
+#: includes/settings.php:157
+msgid "Zoom Window Width"
+msgstr "Ширина окна увеличения"
+
+#: includes/settings.php:145
+msgid "Tint Opacity"
+msgstr "Непрозрачность оттенка"
+
+#: includes/settings.php:139
+msgid "Tint Color"
+msgstr "Цвет оттенка"
+
+#: includes/settings.php:134
+msgid "A color that will layed on top the of non-magnified image in order to emphasize the lens"
+msgstr "Цвет наложения не увеличенного изображения, чтобы подчеркнуть линзу"
+
+#: includes/settings.php:132
+msgid "Tint"
+msgstr "Оттенок"
+
+#: includes/settings.php:123
+msgid "The amount of time it takes for the Lens to slowly appear or disappear"
+msgstr "Время появления (исчезновения) линзы"
+
+#: includes/settings.php:120 includes/settings.php:284
+msgid "Fade Time"
+msgstr "Время исчезновения"
+
+#: includes/settings.php:114 includes/settings.php:252
+msgid "Border Color"
+msgstr "Цвет границы"
+
+#: includes/settings.php:103 includes/settings.php:229
+msgid "Border Thickness"
+msgstr "Толщина границы"
+
+#: includes/settings.php:78
+msgid "For Circle Lens it means the diameters, for Square Lens it means the width"
+msgstr "Для круглой линзы - диаметр, для квадратной линзы - ширина"
+
+#: includes/settings.php:75
+msgid "Lens Size"
+msgstr "Размер линзы"
+
+#: includes/settings.php:39
+msgid "A number between 0 and 200 to represent the degree of the Animation Easing Effect"
+msgstr "Число от 0 до 200, обозначающее степень эффекта замедления анимации"
+
+#: includes/settings.php:37
+msgid "Animation Easing Effect"
+msgstr "Эффект замедления анимации"
+
+#: includes/settings.php:28
+msgid "Crosshair"
+msgstr "Перекрестие"
+
+#: includes/settings.php:27
+msgid "Pointer"
+msgstr "Указатель"
+
+#: includes/settings.php:26 includes/settings.php:61
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/settings.php:24
+msgid "Cursor Type"
+msgstr "Тип курсора"
+
+#: includes/settings.php:15
+msgid "With Zoom Window"
+msgstr "С окном увеличения"
+
+#: includes/settings.php:14
+msgid "Square Lens"
+msgstr "Квадратная линза"
+
+#: includes/settings.php:13
+msgid "Circle Lens"
+msgstr "Круглая линза"
+
+#: includes/settings.php:12
+msgid "No Lens"
+msgstr "Без линзы"
+
+#: includes/settings.php:10
+msgid "Lens Shape"
+msgstr "Форма линзы"
+
+#. Plugin Name of the plugin
+#: includes/admin-side.php:45 includes/admin-side.php:46
+msgid "WP Image Zoom"
+msgstr "WP Image Zoom"
+
+#: includes/template-settings.php:98
+msgid "Don't forget to save the changes in order to apply them on the website"
+msgstr "Сохраните изменения, чтобы применить их на сайте"
+
+#: includes/template-settings.php:98
+msgid "Step 4"
+msgstr "Шаг 4"
+
+#: includes/template-settings.php:66
+msgid "Zoom Window"
+msgstr "Масштабирование окна"
+
+#: includes/template-settings.php:63
+msgid "Lens"
+msgstr "Линза"
+
+#: includes/template-settings.php:60
+msgid "General"
+msgstr "Общие"
+
+#: includes/template-settings.php:55
+msgid "Make more fine-grained configurations on the zoom"
+msgstr "Настройки мелкозернистости при увеличении"
+
+#: includes/template-settings.php:55
+msgid "Step 3"
+msgstr "Шаг 3"
+
+#: includes/template-settings.php:48
+msgid "Check your configuration changes on the image"
+msgstr "Проверьте изменения конфигурации на изображении"
+
+#: includes/template-settings.php:48
+msgid "Step 2"
+msgstr "Шаг 2"
+
+#: includes/template-settings.php:41
+msgid "Choose the Lens Shape"
+msgstr "Фигура линзы"
+
+#: includes/template-settings.php:41
+msgid "Step 1"
+msgstr "Шаг 1"
+
+#: includes/template-general.php:66 includes/template-settings.php:102
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: includes/admin-side.php:109 includes/template-general.php:51
+#: includes/template-settings.php:30
+msgid "Zoom Settings"
+msgstr "Настройки увеличения"
+
+#: includes/admin-side.php:108 includes/template-general.php:50
+#: includes/template-settings.php:29
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: includes/template-general.php:46 includes/template-settings.php:25
+msgid "WP Image Zoom by %1$s"
+msgstr "WP Image Zoom от %1$s"
+
+#: image-zoooom.php:490
+msgid "Settings"
+msgstr "Параметры"
+
+#: includes/class-iz-compatibilities.php:218
+msgid "WP Image Zoooom"
+msgstr "WP Image Zoooom"
